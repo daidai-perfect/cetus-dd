@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <meta name="description" content="Swap, earn, and build on the pioneer MOVE-based liquidity protocol." />
+    <link rel="icon" type="image/png" href="/favicon.ico?t=202503051111" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet" />
+    <title>Cetus - Empower liquidity. Built for DeFi.</title>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-GF4BQNDDKR"></script>
+    <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-GF4BQNDDKR');
+    </script>
+    <style>
+      html {
+        background-color: #161616;
+      }
+      body {
+        background: #161616;
+        margin: 0 !important;
+        /* hover弹框占位会出现两个滚动条 禁用掉body的y轴滚动 */
+        overflow-y: hidden;
+      }
+
+      img,
+      p,
+      button,
+      a,
+      div,
+      span,
+      i,
+      ul,
+      li,
+      svg,
+      canvas {
+        outline: none; /* 禁用点击时的轮廓 */
+        -webkit-tap-highlight-color: transparent; /* 禁用安卓上的波纹效果 */
+      }
+
+      /* 全局滚动条样式 */
+      ::-webkit-scrollbar {
+        width: 4px;
+        height: 4px;
+      }
+      ::-webkit-scrollbar-track {
+        background: transparent;
+      }
+      ::-webkit-scrollbar-thumb {
+        background: #585a5c;
+        border-radius: 4px;
+      }
+      ::-webkit-scrollbar-corner {
+        background: transparent !important;
+      }
+      ::selection {
+        background: #21303f !important;
+      }
+    </style>
+    <script type="module" crossorigin src="/assets/index-c8x0neDx.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-CteIxbgC.css">
+  </head>
+
+  <body>
+    <div id="root"></div>
+    <script src="/iconfont.js"></script>
+    <!-- <script async src="/charting_library/charting_library.standalone.js"></script> -->
+    
+    <script>
+      // 检查是否为移动设备
+      const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)
+
+      const isOnline = window.location.hostname.includes('cetus.zone')
+      // console.log('🚀 ~ isDev:', isDev, isMobile)
+
+      if (isMobile && !isOnline) {
+        const script = document.createElement('script')
+        script.src = 'https://unpkg.com/vconsole/dist/vconsole.min.js'
+        script.onload = function () {
+          // VConsole 加载完成后初始化
+          new window.VConsole()
+        }
+        document.body.appendChild(script)
+      }
+
+    </script>
+  </body>
+</html>
