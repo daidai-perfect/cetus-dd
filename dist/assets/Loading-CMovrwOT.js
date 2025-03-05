@@ -1,1 +1,0 @@
-import{j as e,ar as r,l as i}from"./index-DxlrRVJO.js";function o({positionStyle:n="fixed",bg:t="background"}){return e.jsx(r,{w:"100%",h:"100%",position:n,left:"0px",top:"0px",zIndex:"99999",alignItems:"center",justifyContent:"center",bg:t,children:e.jsx(i,{size:"xl",color:"primary",thickness:"4px"})})}export{o as L};
