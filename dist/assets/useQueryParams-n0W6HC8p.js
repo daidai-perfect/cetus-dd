@@ -1,1 +1,0 @@
-import{cb as c,r as e}from"./index-CukE8cTn.js";function u(){const{search:r}=c(),[s,a]=e.useState({});return e.useLayoutEffect(()=>{const t=new URLSearchParams(r);a(Object.fromEntries(t.entries()))},[r]),s}export{u};
