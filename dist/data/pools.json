@@ -192,18 +192,12 @@
           "logo_url": "https://klrhtty4kphjcsrez2eaeh6r27tbaayw3odjadigbrek544f3i2a.arweave.net/UuJ5zxxTzpFKJM6IAh_R1-YQAxbbhpANBgxIrvOF2jQ",
           "coingecko_id": "usd-coin-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "0.9998259441749676472318796388707871683507192420130887047508090509",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -285,9 +279,7 @@
           "logo_url": "https://klrhtty4kphjcsrez2eaeh6r27tbaayw3odjadigbrek544f3i2a.arweave.net/UuJ5zxxTzpFKJM6IAh_R1-YQAxbbhpANBgxIrvOF2jQ",
           "coingecko_id": "usd-coin-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -303,16 +295,8 @@
           "is_trusted": true
         },
         "price": "0.2783366389477778830502395690016764407150514710257210264901400555",
-        "rewarder_usd": [
-          "0",
-          "0.01451442010299517913470572550081214285788291817461472307110303959547759860175017196749168722",
-          "0"
-        ],
-        "rewarder_apr": [
-          "0%",
-          "5.72206739467597328252499816894291209236702852689969643349847347%",
-          "0%"
-        ],
+        "rewarder_usd": ["0", "0.01451442010299517913470572550081214285788291817461472307110303959547759860175017196749168722", "0"],
+        "rewarder_apr": ["0%", "5.72206739467597328252499816894291209236702852689969643349847347%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -475,15 +459,8 @@
           "is_trusted": true
         },
         "price": "0.004543576903481912545313738702506741180962424741558859015957856",
-        "rewarder_usd": [
-          "0",
-          "0"
-        ],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0", "0"],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -625,14 +602,8 @@
           "is_trusted": true
         },
         "price": "0.2786317585598505714559123177230307397182283705016745420810532201",
-        "rewarder_usd": [
-          "0.006736627509639202334620136548125"
-        ],
-        "rewarder_apr": [
-          "25.96528903427295680847482288313497317018860988127523957099078394%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0.006736627509639202334620136548125"],
+        "rewarder_apr": ["25.96528903427295680847482288313497317018860988127523957099078394%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -737,9 +708,7 @@
           "logo_url": "https://kbjqugvqmnqhcwzoc4cxd5d57apkgpvn24nc5q4e6kvdmtlku6la.arweave.net/UFMKGrBjYHFbLhcFcfR9-B6jPq3XGi7DhPKqNk1qp5Y",
           "coingecko_id": "tether-usd-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -751,9 +720,7 @@
           "logo_url": "https://klrhtty4kphjcsrez2eaeh6r27tbaayw3odjadigbrek544f3i2a.arweave.net/UuJ5zxxTzpFKJM6IAh_R1-YQAxbbhpANBgxIrvOF2jQ",
           "coingecko_id": "usd-coin-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "1.0012978842898737332044497068490804331008352544972184459323334647",
@@ -1079,14 +1046,8 @@
           "is_trusted": true
         },
         "price": "1.0004182855344987242684498818561904836340111473765176419413154156",
-        "rewarder_usd": [
-          "0.00362860502574879478367643137520303571447072954365368076777575989103161279482014625913183004"
-        ],
-        "rewarder_apr": [
-          "6.01189831190058620491111908867742698980927089074628139296095613%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0.00362860502574879478367643137520303571447072954365368076777575989103161279482014625913183004"],
+        "rewarder_apr": ["6.01189831190058620491111908867742698980927089074628139296095613%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -1203,20 +1164,12 @@
           "logo_url": "https://kbjqugvqmnqhcwzoc4cxd5d57apkgpvn24nc5q4e6kvdmtlku6la.arweave.net/UFMKGrBjYHFbLhcFcfR9-B6jPq3XGi7DhPKqNk1qp5Y",
           "coingecko_id": "tether-usd-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "0.9987407927776388690444630380954964040037029479020422600358978683",
-        "rewarder_usd": [
-          "0.0362860502574879478367643137180393749993524465972121173127848403500382077956599011620742278"
-        ],
-        "rewarder_apr": [
-          "15.61152041535954652232938387677557368207241094885098925577225557%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0.0362860502574879478367643137180393749993524465972121173127848403500382077956599011620742278"],
+        "rewarder_apr": ["15.61152041535954652232938387677557368207241094885098925577225557%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -1337,15 +1290,8 @@
           "is_trusted": true
         },
         "price": "0.087270258142002232942540665629350836740569602182964667543142481",
-        "rewarder_usd": [
-          "0.11611536082396143307764580393851517857235364771826840383887879948650921139657031822662351726",
-          "0"
-        ],
-        "rewarder_apr": [
-          "48.12728676693859322314464882709733116198107821345600169832342446%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0.11611536082396143307764580393851517857235364771826840383887879948650921139657031822662351726", "0"],
+        "rewarder_apr": ["48.12728676693859322314464882709733116198107821345600169832342446%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -1633,18 +1579,12 @@
           "logo_url": "https://klrhtty4kphjcsrez2eaeh6r27tbaayw3odjadigbrek544f3i2a.arweave.net/UuJ5zxxTzpFKJM6IAh_R1-YQAxbbhpANBgxIrvOF2jQ",
           "coingecko_id": "usd-coin-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "0.9995062851125897807783433787426273879030897367512078972964264",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -1742,14 +1682,8 @@
           "is_trusted": true
         },
         "price": "1.0411772930292716763937377390369241461933773156465520455312977862",
-        "rewarder_usd": [
-          "0"
-        ],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0"],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -1924,14 +1858,8 @@
           "is_trusted": true
         },
         "price": "0.0003218540239218374354658062778354369006855252075178159119957162",
-        "rewarder_usd": [
-          "0.0104791983483276480760757680286732549437905478553692449551933141626793157440862618519967368"
-        ],
-        "rewarder_apr": [
-          "15.17030866227739918487940764244993956653128684762247043627067199%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0.0104791983483276480760757680286732549437905478553692449551933141626793157440862618519967368"],
+        "rewarder_apr": ["15.17030866227739918487940764244993956653128684762247043627067199%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -2052,14 +1980,8 @@
           "is_trusted": true
         },
         "price": "0.0008918174443549974284083933021172717697615196596262697700305664",
-        "rewarder_usd": [
-          "0.3708544400751854463566845486111947439985490366779993877171996835561970779093089673157340687"
-        ],
-        "rewarder_apr": [
-          "2828.99753847283673301789076919051228253356144883658903417867432911%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0.3708544400751854463566845486111947439985490366779993877171996835561970779093089673157340687"],
+        "rewarder_apr": ["2828.99753847283673301789076919051228253356144883658903417867432911%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -2180,14 +2102,8 @@
           "is_trusted": true
         },
         "price": "3.1923107200764099723130004839936338287147982106549767737621669658",
-        "rewarder_usd": [
-          "0.02902884020599035826941145096763330357041098750990475577723332056797498220601960864381056772"
-        ],
-        "rewarder_apr": [
-          "58.11155113153970241367082041046078199350389683103132127987966506%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0.02902884020599035826941145096763330357041098750990475577723332056797498220601960864381056772"],
+        "rewarder_apr": ["58.11155113153970241367082041046078199350389683103132127987966506%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -2308,14 +2224,8 @@
           "is_trusted": true
         },
         "price": "0.0058921091789203952923687822849066643041516118838608025205887658",
-        "rewarder_usd": [
-          "0"
-        ],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0"],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -2436,15 +2346,8 @@
           "is_trusted": true
         },
         "price": "0.1321226323846878524808512008962844499126584708751415974061055165",
-        "rewarder_usd": [
-          "0.02197282737975335198290219874672819327717911870688543927304658966106837657524543272625004862",
-          "0"
-        ],
-        "rewarder_apr": [
-          "57.64913660125198824977473510215694736825698100485283198143327167%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0.02197282737975335198290219874672819327717911870688543927304658966106837657524543272625004862", "0"],
+        "rewarder_apr": ["57.64913660125198824977473510215694736825698100485283198143327167%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -2586,15 +2489,8 @@
           "is_trusted": true
         },
         "price": "0.0000000499414795638571030950329478278579012865480769898953707751",
-        "rewarder_usd": [
-          "0",
-          "0"
-        ],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0", "0"],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -2736,14 +2632,8 @@
           "is_trusted": true
         },
         "price": "0.0175533311888152916154501356704903735243451272859598285848347186",
-        "rewarder_usd": [
-          "0.06415174190296327479573098529757475243500529955526668060214467992356275680986726845376486928"
-        ],
-        "rewarder_apr": [
-          "389.6817434352828289585231211415787433018123223395372095774027213%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0.06415174190296327479573098529757475243500529955526668060214467992356275680986726845376486928"],
+        "rewarder_apr": ["389.6817434352828289585231211415787433018123223395372095774027213%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -2864,14 +2754,8 @@
           "is_trusted": true
         },
         "price": "1.0342610401186736318397381698537838316157706683284124669749538329",
-        "rewarder_usd": [
-          "0"
-        ],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0"],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -3026,14 +2910,8 @@
           "is_trusted": true
         },
         "price": "0.0000024726730473838167726567329373785353534157180621684657980556",
-        "rewarder_usd": [
-          "0"
-        ],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0"],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -3138,9 +3016,7 @@
           "logo_url": "https://randjhppd5rrnyp52hplsyqgbc5hox5veu7jsnfo4ryigl5g7mdq.arweave.net/iBo0ne8fYxbh_dHeuWIGCLp3X7UlPpk0ruRwgy-m-wc",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -3152,20 +3028,12 @@
           "logo_url": "https://klrhtty4kphjcsrez2eaeh6r27tbaayw3odjadigbrek544f3i2a.arweave.net/UuJ5zxxTzpFKJM6IAh_R1-YQAxbbhpANBgxIrvOF2jQ",
           "coingecko_id": "usd-coin-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "239.00267186831799659138670982310867455273668746857513284905775715",
-        "rewarder_usd": [
-          "0.0020584139612786451578005973435170049437905478553692449551933141626793157440862618519967368"
-        ],
-        "rewarder_apr": [
-          "21.33509252129581823818342788396311352251418426392473264679619534%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0.0020584139612786451578005973435170049437905478553692449551933141626793157440862618519967368"],
+        "rewarder_apr": ["21.33509252129581823818342788396311352251418426392473264679619534%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -3286,14 +3154,8 @@
           "is_trusted": true
         },
         "price": "0.0050122911324350633721369329620212848637292546055721186748473688",
-        "rewarder_usd": [
-          "0"
-        ],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0"],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -3410,20 +3272,12 @@
           "logo_url": "https://klrhtty4kphjcsrez2eaeh6r27tbaayw3odjadigbrek544f3i2a.arweave.net/UuJ5zxxTzpFKJM6IAh_R1-YQAxbbhpANBgxIrvOF2jQ",
           "coingecko_id": "usd-coin-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "1.0706705673557005273799456529277815569174417645054809947416913628",
-        "rewarder_usd": [
-          "0.0316039315267024307056253320695857865667387517428786576981214474402395391577189978679653783"
-        ],
-        "rewarder_apr": [
-          "10.30814704638214414814865167095032456390490409775443897028866342%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0.0316039315267024307056253320695857865667387517428786576981214474402395391577189978679653783"],
+        "rewarder_apr": ["10.30814704638214414814865167095032456390490409775443897028866342%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -3545,11 +3399,7 @@
         },
         "price": "1.0011736828003654909062676580046585778411913214061339706973406004",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -3648,11 +3498,7 @@
         },
         "price": "0.2692362712235784619187960845893477055290444967959797789648344397",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -3750,14 +3596,8 @@
           "is_trusted": true
         },
         "price": "1.0009070016847166501218112225685119581655172246886762042843053095",
-        "rewarder_usd": [
-          "0.0021207901419234525868248579103929249063175797589487415919888568180365927354468393600810227"
-        ],
-        "rewarder_apr": [
-          "6.25046639418995309900015136388282892128497174709524924129337075%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0.0021207901419234525868248579103929249063175797589487415919888568180365927354468393600810227"],
+        "rewarder_apr": ["6.25046639418995309900015136388282892128497174709524924129337075%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -3879,11 +3719,7 @@
         },
         "price": "0.2779958291990250983830668754638588531417368218199452892294250713",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -3981,14 +3817,8 @@
           "is_trusted": true
         },
         "price": "2.1072755071289312328870291065189333658446339297300074634965329992",
-        "rewarder_usd": [
-          "0.02197282737975335198290219874672819327717911870688543927304658966106837657524543272625004862"
-        ],
-        "rewarder_apr": [
-          "130.29380204058910430181896977131734598241279203091645437291700047%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0.02197282737975335198290219874672819327717911870688543927304658966106837657524543272625004862"],
+        "rewarder_apr": ["130.29380204058910430181896977131734598241279203091645437291700047%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -4093,9 +3923,7 @@
           "logo_url": "https://klrhtty4kphjcsrez2eaeh6r27tbaayw3odjadigbrek544f3i2a.arweave.net/UuJ5zxxTzpFKJM6IAh_R1-YQAxbbhpANBgxIrvOF2jQ",
           "coingecko_id": "usd-coin-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -4107,20 +3935,12 @@
           "logo_url": "https://ucnnvm4qciffcmk5cervagst6et7v45hmtq33uy5awcr4kjivt5q.arweave.net/oJras5ASClExXREjUBpT8Sf686dk4b3THQWFHikorPs",
           "coingecko_id": "wrapped-btc-wormhole",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "0.0000103099027802251499176056004064987573089732981878634195557213",
-        "rewarder_usd": [
-          "0.0022289088550411187971335761873572332084234396785983221226518092104777238186260495400215689"
-        ],
-        "rewarder_apr": [
-          "16.80212930350563724600933571405987340849996397749552163950103752%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0.0022289088550411187971335761873572332084234396785983221226518092104777238186260495400215689"],
+        "rewarder_apr": ["16.80212930350563724600933571405987340849996397749552163950103752%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -4241,14 +4061,8 @@
           "is_trusted": true
         },
         "price": "0.0000001460441243382634560225004337755688249382183554020459096496",
-        "rewarder_usd": [
-          "0"
-        ],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0"],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -4353,9 +4167,7 @@
           "logo_url": "https://t4gq524jdiihjr6ihouhzsemfczi3eq2cnjyhbfms5utl3hueu6q.arweave.net/nw0O64kaEHTHyDuofMiMKLKNkhoTU4OErJdpNez0JT0",
           "coingecko_id": "ethereum-wormhole",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -4367,22 +4179,12 @@
           "logo_url": "https://klrhtty4kphjcsrez2eaeh6r27tbaayw3odjadigbrek544f3i2a.arweave.net/UuJ5zxxTzpFKJM6IAh_R1-YQAxbbhpANBgxIrvOF2jQ",
           "coingecko_id": "usd-coin-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "3106.41178648532782232047896457276888259557140589055607072802267474",
-        "rewarder_usd": [
-          "0",
-          "0",
-          "0"
-        ],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0", "0", "0"],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -4545,15 +4347,8 @@
           "is_trusted": true
         },
         "price": "0.0343097710422728353618782568789721962577018328425129401135203125",
-        "rewarder_usd": [
-          "0.0040774377546322505697930177608163605984212954008429303804500465369784395032515470738242884",
-          "0"
-        ],
-        "rewarder_apr": [
-          "7.8299832354537865444623558014690398042003683616352759254236575%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0.0040774377546322505697930177608163605984212954008429303804500465369784395032515470738242884", "0"],
+        "rewarder_apr": ["7.8299832354537865444623558014690398042003683616352759254236575%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -4679,9 +4474,7 @@
           "logo_url": "https://randjhppd5rrnyp52hplsyqgbc5hox5veu7jsnfo4ryigl5g7mdq.arweave.net/iBo0ne8fYxbh_dHeuWIGCLp3X7UlPpk0ruRwgy-m-wc",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -4698,11 +4491,7 @@
         },
         "price": "66.431172637988311570674250593418371604854583313360207026407459468",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -4784,9 +4573,7 @@
           "logo_url": "https://klrhtty4kphjcsrez2eaeh6r27tbaayw3odjadigbrek544f3i2a.arweave.net/UuJ5zxxTzpFKJM6IAh_R1-YQAxbbhpANBgxIrvOF2jQ",
           "coingecko_id": "usd-coin-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -4802,14 +4589,8 @@
           "is_trusted": true
         },
         "price": "1.0009321351708152406978966554532858288121635504944363651577990689",
-        "rewarder_usd": [
-          "0.0021207901419234525868248579103929249063175797589487415919888568180365927354468393600810227"
-        ],
-        "rewarder_apr": [
-          "14.69863699954453975139189787936260868329893229020295428953828667%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0.0021207901419234525868248579103929249063175797589487415919888568180365927354468393600810227"],
+        "rewarder_apr": ["14.69863699954453975139189787936260868329893229020295428953828667%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -4930,14 +4711,8 @@
           "is_trusted": true
         },
         "price": "0.0008667360778469146916652408958590959611863142666300280525741529",
-        "rewarder_usd": [
-          "0"
-        ],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0"],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -5042,9 +4817,7 @@
           "logo_url": "https://ln5rjzkrzlcrgctsbxebvz7gjhbngu7eqk5orymuktocmbgwn5oa.arweave.net/W3sU5VHKxRMKcg3IGufmScLTU-SCuujhlFTcJgTWb1w",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -5056,18 +4829,12 @@
           "logo_url": "https://klrhtty4kphjcsrez2eaeh6r27tbaayw3odjadigbrek544f3i2a.arweave.net/UuJ5zxxTzpFKJM6IAh_R1-YQAxbbhpANBgxIrvOF2jQ",
           "coingecko_id": "usd-coin-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "1.0000017551951072299532148501286994823640622680951994436443839566",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -5165,14 +4932,8 @@
           "is_trusted": true
         },
         "price": "0.0006381714431290668554209933431791053682483298067044932653768266",
-        "rewarder_usd": [
-          "0"
-        ],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0"],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -5289,18 +5050,12 @@
           "logo_url": "https://t4gq524jdiihjr6ihouhzsemfczi3eq2cnjyhbfms5utl3hueu6q.arweave.net/nw0O64kaEHTHyDuofMiMKLKNkhoTU4OErJdpNez0JT0",
           "coingecko_id": "ethereum-wormhole",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "1.0008580972420691402948450105293533989870732075704219108400169954",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -5399,11 +5154,7 @@
         },
         "price": "0.00063729713793534104464883801438935598241902408379699974200232",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -5485,9 +5236,7 @@
           "logo_url": "https://klrhtty4kphjcsrez2eaeh6r27tbaayw3odjadigbrek544f3i2a.arweave.net/UuJ5zxxTzpFKJM6IAh_R1-YQAxbbhpANBgxIrvOF2jQ",
           "coingecko_id": "usd-coin-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -5503,14 +5252,8 @@
           "is_trusted": true
         },
         "price": "3.190911438489843275327828830205120365678882127944529857351084422",
-        "rewarder_usd": [
-          "0"
-        ],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0"],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -5631,14 +5374,8 @@
           "is_trusted": true
         },
         "price": "1.0347033872597025233048775245957752512089603380902901578098202882",
-        "rewarder_usd": [
-          "0"
-        ],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0"],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -5794,11 +5531,7 @@
         },
         "price": "2.7431054374857758472958982212276630504939868414907400606228917058",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -5896,14 +5629,8 @@
           "is_trusted": true
         },
         "price": "1.3019777131975003343215075168844248492721260411963163383172088062",
-        "rewarder_usd": [
-          "0.00362860502574879478367643137520303571447072954365368076777575989103161279482014625913183004"
-        ],
-        "rewarder_apr": [
-          "55.80311477083026661468209422741940177683676366687187978922820615%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0.00362860502574879478367643137520303571447072954365368076777575989103161279482014625913183004"],
+        "rewarder_apr": ["55.80311477083026661468209422741940177683676366687187978922820615%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -6024,14 +5751,8 @@
           "is_trusted": true
         },
         "price": "0.0000593396970218887291807294228847637727318989854391429695786991",
-        "rewarder_usd": [
-          "0"
-        ],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0"],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -6153,11 +5874,7 @@
         },
         "price": "0.6837145649876385872739448358762196049710606441106612216805098235",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -6255,14 +5972,8 @@
           "is_trusted": true
         },
         "price": "0.0331615809505489702582108045254369651427239329181602457477601054",
-        "rewarder_usd": [
-          "0.00203943246460255024999447756078726448142923037371652531836441201837223152931985900646701368"
-        ],
-        "rewarder_apr": [
-          "30.77343262923865433968472044733830082202319607567252880092113607%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0.00203943246460255024999447756078726448142923037371652531836441201837223152931985900646701368"],
+        "rewarder_apr": ["30.77343262923865433968472044733830082202319607567252880092113607%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -6383,14 +6094,8 @@
           "is_trusted": true
         },
         "price": "0.0055274064406659895890059123207106170429120885450167485743963021",
-        "rewarder_usd": [
-          "0"
-        ],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0"],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -6507,20 +6212,12 @@
           "logo_url": "https://klrhtty4kphjcsrez2eaeh6r27tbaayw3odjadigbrek544f3i2a.arweave.net/UuJ5zxxTzpFKJM6IAh_R1-YQAxbbhpANBgxIrvOF2jQ",
           "coingecko_id": "usd-coin-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "1.0000207516441988094429314878565447127968535088926075217213872247",
-        "rewarder_usd": [
-          "0.01814302512874397391838215687601517857235364771826840383887879948650921139657031822662351726"
-        ],
-        "rewarder_apr": [
-          "17.01413592034671637080682837871108964972347745441364914448550914%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0.01814302512874397391838215687601517857235364771826840383887879948650921139657031822662351726"],
+        "rewarder_apr": ["17.01413592034671637080682837871108964972347745441364914448550914%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -6641,15 +6338,8 @@
           "is_trusted": true
         },
         "price": "0.3924211059391417008346740017370421209799680012137213979013218689",
-        "rewarder_usd": [
-          "0",
-          "0"
-        ],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0", "0"],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -6791,14 +6481,8 @@
           "is_trusted": true
         },
         "price": "0.0000072662353700958419936500112895573409353693517191223718800253",
-        "rewarder_usd": [
-          "0"
-        ],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0"],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -6903,9 +6587,7 @@
           "logo_url": "https://ucnnvm4qciffcmk5cervagst6et7v45hmtq33uy5awcr4kjivt5q.arweave.net/oJras5ASClExXREjUBpT8Sf686dk4b3THQWFHikorPs",
           "coingecko_id": "wrapped-btc-wormhole",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -6922,11 +6604,7 @@
         },
         "price": "26955.4524775540234929252104541904195151679101661599428613069413134683",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -7025,11 +6703,7 @@
         },
         "price": "0.0001353781250666343271469756585339507185823550158501635523404457",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -7128,11 +6802,7 @@
         },
         "price": "2.4533402003155162186867689379881398191336702571597015198364364",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -7231,11 +6901,7 @@
         },
         "price": "0.0000001445615773502255451728132154178005819833304998580747375604",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -7317,9 +6983,7 @@
           "logo_url": "https://kbjqugvqmnqhcwzoc4cxd5d57apkgpvn24nc5q4e6kvdmtlku6la.arweave.net/UFMKGrBjYHFbLhcFcfR9-B6jPq3XGi7DhPKqNk1qp5Y",
           "coingecko_id": "tether-usd-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -7336,11 +7000,7 @@
         },
         "price": "0.2780255601387380143407542973693419630217641161969274405836328661",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -7439,11 +7099,7 @@
         },
         "price": "0.053115028964233172297603377067750387619353352768375748682115273",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -7542,11 +7198,7 @@
         },
         "price": "0.000267725387855686336556210658339929751385910850987203297277453",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -7645,11 +7297,7 @@
         },
         "price": "1.0005537164367664074679202527943619931954716031407026645209876175",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -7748,11 +7396,7 @@
         },
         "price": "3.1763777717693753952360170848456381162227741449894632383961269062",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -7851,11 +7495,7 @@
         },
         "price": "8.1224423289769196181878228109471305709234600910701895849852961459",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -7954,11 +7594,7 @@
         },
         "price": "0.0055911712320382885734011229605606117085642716111770575264229478",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -8040,9 +7676,7 @@
           "logo_url": "https://co3xbx3vz2ww7tcs2tp4p36hdnkz677tuvqt6wgyfyoeefj6or6a.arweave.net/E7dw33XOrW_MUtTfx-_HG1Wff_OlYT9Y2C4cQhU-dHw",
           "coingecko_id": "usd-coin-wormhole-bnb",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -8054,18 +7688,12 @@
           "logo_url": "https://klrhtty4kphjcsrez2eaeh6r27tbaayw3odjadigbrek544f3i2a.arweave.net/UuJ5zxxTzpFKJM6IAh_R1-YQAxbbhpANBgxIrvOF2jQ",
           "coingecko_id": "usd-coin-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "0.99964148870574649594135399267409583567330530126603161182614906",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -8159,18 +7787,12 @@
           "logo_url": "https://archive.cetus.zone/assets/image/sui/usdc_celer.png",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Celer"
-          ],
+          "labels": ["Celer"],
           "is_trusted": true
         },
         "price": "0.9996651608438983427547546135949873005299758125799796414671602507",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -8269,11 +7891,7 @@
         },
         "price": "61.2678366122405925958096153249847668977937048458230121651507943926",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -8372,11 +7990,7 @@
         },
         "price": "866.4540851223530192607208207730833524699351088047942643611506229734",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -8475,11 +8089,7 @@
         },
         "price": "0.0000070516353092711010431033116547175707802183491805160300549689",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -8573,18 +8183,12 @@
           "logo_url": "https://klrhtty4kphjcsrez2eaeh6r27tbaayw3odjadigbrek544f3i2a.arweave.net/UuJ5zxxTzpFKJM6IAh_R1-YQAxbbhpANBgxIrvOF2jQ",
           "coingecko_id": "usd-coin-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "3.7580366018826599017848234201696877011172053220178644396050853",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -8683,11 +8287,7 @@
         },
         "price": "0.2689022501403969656721348492757466421646019846684033797951836509",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -8769,9 +8369,7 @@
           "logo_url": "https://hvyfngb6s6wsyytjzbvqjunzqvwlzjjhfmk4z44yacx7sq7fidxa.arweave.net/PXBWmD6XrSxiachrBNG5hWy8pScrFczzmACv-UPlQO4",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -8788,11 +8386,7 @@
         },
         "price": "3.2716685991355814235860198759124980385586416907414858675545558562",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -8891,11 +8485,7 @@
         },
         "price": "1.0552578387871234884933323286482186731691863356390719713176462588",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -8977,9 +8567,7 @@
           "logo_url": "https://zesrehijzslvuwaf7vplw5qsnhjdz4cpsighhn65watc4fwl22gq.arweave.net/ySUSHQnMl1pYBf1eu3YSadI88E-SDHO33bAmLhbL1o0",
           "coingecko_id": "usd-coin-wormhole-arb",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -8991,18 +8579,12 @@
           "logo_url": "https://klrhtty4kphjcsrez2eaeh6r27tbaayw3odjadigbrek544f3i2a.arweave.net/UuJ5zxxTzpFKJM6IAh_R1-YQAxbbhpANBgxIrvOF2jQ",
           "coingecko_id": "usd-coin-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "1.0004394812695417751733348397322804963506613664791707242823184996",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -9251,11 +8833,7 @@
         },
         "price": "0.0520217009984993753229393999816671558810890427123949571290451065",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -9349,20 +8927,12 @@
           "logo_url": "https://klrhtty4kphjcsrez2eaeh6r27tbaayw3odjadigbrek544f3i2a.arweave.net/UuJ5zxxTzpFKJM6IAh_R1-YQAxbbhpANBgxIrvOF2jQ",
           "coingecko_id": "usd-coin-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "0.9995328856666662779267004330893723115203991992511554939207889",
-        "rewarder_usd": [
-          "0"
-        ],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0"],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -9484,11 +9054,7 @@
         },
         "price": "0.2302301517696964951663587446127134905513262356605239093991298218",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -9582,18 +9148,12 @@
           "logo_url": "https://klrhtty4kphjcsrez2eaeh6r27tbaayw3odjadigbrek544f3i2a.arweave.net/UuJ5zxxTzpFKJM6IAh_R1-YQAxbbhpANBgxIrvOF2jQ",
           "coingecko_id": "usd-coin-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "0.0722152755041749726379199622503208946731010492651262206991669",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -9692,11 +9252,7 @@
         },
         "price": "0.0000005724417142081678518911734907212287519238442465231641825191",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -9790,18 +9346,12 @@
           "logo_url": "https://boqgq74qfqr7gfo4x7tpesefwkzawnbe4e3anop54gwsh3ctfdoa.arweave.net/C6Bof5AsI_MV3L_m8kiFsrILNCThNga5_eGtI-xTKNw",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "1.0079705018242417973201024568144551961988414063512283581070036638",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -9900,11 +9450,7 @@
         },
         "price": "0.3953554636946590285646135653140071109704172077329480175682109447",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -10002,14 +9548,8 @@
           "is_trusted": true
         },
         "price": "0.0242239757473719427411315391019419122480727689032734547449571783",
-        "rewarder_usd": [
-          "0"
-        ],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0"],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -10131,11 +9671,7 @@
         },
         "price": "0.0004669388445822931187380797867504767490066125432071039136470347",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -10234,11 +9770,7 @@
         },
         "price": "0.0018579110097070844095009229323178118978866661676921913608069199",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -10332,18 +9864,12 @@
           "logo_url": "https://hvyfngb6s6wsyytjzbvqjunzqvwlzjjhfmk4z44yacx7sq7fidxa.arweave.net/PXBWmD6XrSxiachrBNG5hWy8pScrFczzmACv-UPlQO4",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "0.0858879946679907905828969849282996495661121506056925881197354859",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -10442,11 +9968,7 @@
         },
         "price": "0.0000000000030686138878729623683103303816634685616682875509898492",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -10545,11 +10067,7 @@
         },
         "price": "0.2671545378335974579018071492258609015881487956174632109710736937",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -10631,9 +10149,7 @@
           "logo_url": "https://t4gq524jdiihjr6ihouhzsemfczi3eq2cnjyhbfms5utl3hueu6q.arweave.net/nw0O64kaEHTHyDuofMiMKLKNkhoTU4OErJdpNez0JT0",
           "coingecko_id": "ethereum-wormhole",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -10650,11 +10166,7 @@
         },
         "price": "865.6721888576219761984420146796461626147912423903133136630456661922",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -10753,11 +10265,7 @@
         },
         "price": "0.0000163949621550215789039454918484928761738192280668307783771706",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -10856,11 +10364,7 @@
         },
         "price": "0.0045558776613454665371016462794358221528708396906729980412756174",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -10958,14 +10462,8 @@
           "is_trusted": true
         },
         "price": "0.0001017926810470830917091950467518926465616366815388289345766543",
-        "rewarder_usd": [
-          "0"
-        ],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0"],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -11086,14 +10584,8 @@
           "is_trusted": true
         },
         "price": "0.0002651009615481759463152642073823390648482354826377013115901737",
-        "rewarder_usd": [
-          "0"
-        ],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0"],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -11215,11 +10707,7 @@
         },
         "price": "0.0001141212058200867753853952642817890836506192435476207209426044",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -11301,9 +10789,7 @@
           "logo_url": "https://t4gq524jdiihjr6ihouhzsemfczi3eq2cnjyhbfms5utl3hueu6q.arweave.net/nw0O64kaEHTHyDuofMiMKLKNkhoTU4OErJdpNez0JT0",
           "coingecko_id": "ethereum-wormhole",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -11320,11 +10806,7 @@
         },
         "price": "872.9456574363708424083350426086619287837251142658062417303660688129",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -11423,11 +10905,7 @@
         },
         "price": "0.0000137187078587558461451814993175643433116026336127340394766868",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -11526,11 +11004,7 @@
         },
         "price": "0.2776272138956454104742123246974134396415656111974586551297636548",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -11624,18 +11098,12 @@
           "logo_url": "https://ln5rjzkrzlcrgctsbxebvz7gjhbngu7eqk5orymuktocmbgwn5oa.arweave.net/W3sU5VHKxRMKcg3IGufmScLTU-SCuujhlFTcJgTWb1w",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "1.0095516447174847050474673508788153527090776965125376425398645713",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -11734,11 +11202,7 @@
         },
         "price": "0.0200838136456212117968214973657223158911847306945366645434902215",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -11837,11 +11301,7 @@
         },
         "price": "0.2666611979716739791030154357387318273980939768968390643046461898",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -11923,9 +11383,7 @@
           "logo_url": "https://otjatct2scltanet7e7untvl3lx4kccddwx5pusxqr6a2pd3qe5a.arweave.net/dNIJinqQlzA0k_k_Rs6r2u_FCEMdr9fSV4R8DTx7gTo",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -11937,18 +11395,12 @@
           "logo_url": "https://klrhtty4kphjcsrez2eaeh6r27tbaayw3odjadigbrek544f3i2a.arweave.net/UuJ5zxxTzpFKJM6IAh_R1-YQAxbbhpANBgxIrvOF2jQ",
           "coingecko_id": "usd-coin-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "0.9999981264638029081158946609517922988635367624549532498688647001",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -12047,11 +11499,7 @@
         },
         "price": "0.0000044418744832459543280243064722894669332862937592434390570494",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -12150,11 +11598,7 @@
         },
         "price": "0.0531529428854693974361769872260552204496800492611714089545951954",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -12248,18 +11692,12 @@
           "logo_url": "https://klrhtty4kphjcsrez2eaeh6r27tbaayw3odjadigbrek544f3i2a.arweave.net/UuJ5zxxTzpFKJM6IAh_R1-YQAxbbhpANBgxIrvOF2jQ",
           "coingecko_id": "usd-coin-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "0.015241139782899404645843290585883277936475002301639872221871",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -12358,11 +11796,7 @@
         },
         "price": "8.1271211169066626007818801466259423638238532861263154465493654985",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -12456,18 +11890,12 @@
           "logo_url": "https://klrhtty4kphjcsrez2eaeh6r27tbaayw3odjadigbrek544f3i2a.arweave.net/UuJ5zxxTzpFKJM6IAh_R1-YQAxbbhpANBgxIrvOF2jQ",
           "coingecko_id": "usd-coin-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "2.4519570585839955749012859451787664194218508916164234634801135",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -12549,9 +11977,7 @@
           "logo_url": "https://kbjqugvqmnqhcwzoc4cxd5d57apkgpvn24nc5q4e6kvdmtlku6la.arweave.net/UFMKGrBjYHFbLhcFcfR9-B6jPq3XGi7DhPKqNk1qp5Y",
           "coingecko_id": "tether-usd-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -12568,11 +11994,7 @@
         },
         "price": "3.1887293468399079462943570344577714746022277365963445107527309356",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -12671,11 +12093,7 @@
         },
         "price": "11.922892590734408969943744505269441260438743934310336423206437829",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -12774,11 +12192,7 @@
         },
         "price": "0.9852026595502528313786122908929021765699515885154700121031881504",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -12877,11 +12291,7 @@
         },
         "price": "0.0001625678981891345450399777359877249241470761816164250448465034",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -12980,11 +12390,7 @@
         },
         "price": "0.0004025336256553458475911386374084752063478689489339442708714032",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -13078,18 +12484,12 @@
           "logo_url": "https://archive.cetus.zone/assets/image/sui/usdt_celer.png",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Celer"
-          ],
+          "labels": ["Celer"],
           "is_trusted": true
         },
         "price": "0.9904350388903823456230922486119370634216645488022013082437865326",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -13188,11 +12588,7 @@
         },
         "price": "0.1707063759511895663148804653326999129929986874756033321103765434",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -13290,14 +12686,8 @@
           "is_trusted": true
         },
         "price": "0.1599015360354783897454151310691747618118725684005437246738446347",
-        "rewarder_usd": [
-          "0.00014505487348365082935782472000805944514218130816264420469841045730470016383790498736685088"
-        ],
-        "rewarder_apr": [
-          "4.20426093112078162035015316600585766745860314838464377290437053%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0.00014505487348365082935782472000805944514218130816264420469841045730470016383790498736685088"],
+        "rewarder_apr": ["4.20426093112078162035015316600585766745860314838464377290437053%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -13419,11 +12809,7 @@
         },
         "price": "0.0000188493987040337457759086746123286234851313739954026075120256",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -13522,11 +12908,7 @@
         },
         "price": "0.0000000102367371343065644406825584054688707915988448211188370469",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -13625,11 +13007,7 @@
         },
         "price": "0.1483106739291591353070021252248998779327818446693640716689221178",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -13727,14 +13105,8 @@
           "is_trusted": true
         },
         "price": "0.0006184570176863463985996232596507596011377451576269927486215962",
-        "rewarder_usd": [
-          "0"
-        ],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0"],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -13856,11 +13228,7 @@
         },
         "price": "0.0000016749321837146837144692534212820047300158573574435292472809",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -13959,11 +13327,7 @@
         },
         "price": "0.2687033905518034409903057574765824515382015322399552011750051263",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -14062,11 +13426,7 @@
         },
         "price": "0.1014322008647270840500130289201889213888884261721654461454512704",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -14164,14 +13524,8 @@
           "is_trusted": true
         },
         "price": "0.0001420058524777546404891721486095792433669200632889750566770127",
-        "rewarder_usd": [
-          "0"
-        ],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0"],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -14293,11 +13647,7 @@
         },
         "price": "0.0002157258539395900798554832270780027982821062918347478466930908",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -14396,11 +13746,7 @@
         },
         "price": "90078648058.571537566082477710147637104513017281144517012193810414960506",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -14499,11 +13845,7 @@
         },
         "price": "0.0000000000008941785641279133727959070301376636448124793391716542",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -14602,11 +13944,7 @@
         },
         "price": "0.0046001810598079894880484241160446949282879768846532743078834566",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -14705,11 +14043,7 @@
         },
         "price": "0.0054376781998524258632053517548263896206506705761249117727645471",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -14791,9 +14125,7 @@
           "logo_url": "https://boqgq74qfqr7gfo4x7tpesefwkzawnbe4e3anop54gwsh3ctfdoa.arweave.net/C6Bof5AsI_MV3L_m8kiFsrILNCThNga5_eGtI-xTKNw",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -14810,11 +14142,7 @@
         },
         "price": "0.2764271470629169378910277903916049490582724734457607063116102322",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -14913,11 +14241,7 @@
         },
         "price": "0.0000038539825281635590743622266813569647709625731695808931195934",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -15016,11 +14340,7 @@
         },
         "price": "0.0201020677494763496237990489856578615825344154976622963389792464",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -15102,9 +14422,7 @@
           "logo_url": "https://fe3wnx45vysrtzfr7kwg4aowt7aqb2tku4szytg2ayfwdyp3jk6q.arweave.net/KTdm352uJRnksfqsbgHWn8EA6mqnJZxM2gYLYeH7Sr0",
           "coingecko_id": "matic-wormhole",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -15116,18 +14434,12 @@
           "logo_url": "https://klrhtty4kphjcsrez2eaeh6r27tbaayw3odjadigbrek544f3i2a.arweave.net/UuJ5zxxTzpFKJM6IAh_R1-YQAxbbhpANBgxIrvOF2jQ",
           "coingecko_id": "usd-coin-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "0.44997038854564476753795366205311125265176460122127178587269963",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -15226,11 +14538,7 @@
         },
         "price": "0.000000000003020275193498499609792339069888890385882428427660272",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -15329,11 +14637,7 @@
         },
         "price": "0.1134945538417969295055465214109699817525426402991675969953852892",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -15432,11 +14736,7 @@
         },
         "price": "0.5645448865687871513091002554242769543637870360440170616354764355",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -15535,11 +14835,7 @@
         },
         "price": "0.0000184024928102211875145796017257819576253430816410811120390633",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -15638,11 +14934,7 @@
         },
         "price": "0.0006715243849404552649899857991895493998413757667047838843343292",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -15741,11 +15033,7 @@
         },
         "price": "0.2789776405730880733396606303416738931225786811705972317875153787",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -15844,11 +15132,7 @@
         },
         "price": "1044.4881248534743154118930978322618966621980714316135641456601418574",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -15947,11 +15231,7 @@
         },
         "price": "0.0000024350951479685559445697525419545430428679638782823030834499",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -16050,11 +15330,7 @@
         },
         "price": "2.7360637709678444530176455604853914949600518807253300798060823323",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -16153,11 +15429,7 @@
         },
         "price": "0.0145689139531920958595190938308016295016347224550700666455032461",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -16256,11 +15528,7 @@
         },
         "price": "0.015496080389694765306374238689781160684660639496118284960757587",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -16342,9 +15610,7 @@
           "logo_url": "https://t4gq524jdiihjr6ihouhzsemfczi3eq2cnjyhbfms5utl3hueu6q.arweave.net/nw0O64kaEHTHyDuofMiMKLKNkhoTU4OErJdpNez0JT0",
           "coingecko_id": "ethereum-wormhole",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -16361,11 +15627,7 @@
         },
         "price": "9966.1834172796691863271740975760635343395815658523755829533569070579",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -16464,11 +15726,7 @@
         },
         "price": "7.688634401727737688799269590665293841001015597750937104081780372",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -16567,11 +15825,7 @@
         },
         "price": "0.0000281713178034673206187992707644448737778863876051678844328956",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -16670,11 +15924,7 @@
         },
         "price": "0.0004032649345756781875779719006063684702553931823844357820286765",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -16773,11 +16023,7 @@
         },
         "price": "0.0000000612621272563882453475317155578803236825965851227581341605",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -16859,9 +16105,7 @@
           "logo_url": "https://randjhppd5rrnyp52hplsyqgbc5hox5veu7jsnfo4ryigl5g7mdq.arweave.net/iBo0ne8fYxbh_dHeuWIGCLp3X7UlPpk0ruRwgy-m-wc",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -16878,11 +16122,7 @@
         },
         "price": "67.4176991432857398148862110335613459812655542584987589387977193739",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -16980,14 +16220,8 @@
           "is_trusted": true
         },
         "price": "0.0000608844874609648167509792628559562997199641682431093571018115",
-        "rewarder_usd": [
-          "0"
-        ],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0"],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -17109,11 +16343,7 @@
         },
         "price": "10.28785718355590550766009524245546268471527822690685449784465",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -17195,9 +16425,7 @@
           "logo_url": "https://hvyfngb6s6wsyytjzbvqjunzqvwlzjjhfmk4z44yacx7sq7fidxa.arweave.net/PXBWmD6XrSxiachrBNG5hWy8pScrFczzmACv-UPlQO4",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -17214,11 +16442,7 @@
         },
         "price": "3.2482543615052568394744834870725437073706733153539075563702029429",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -17317,11 +16541,7 @@
         },
         "price": "0.0000065219398047128235094391309387506643084759445218496950721276",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -17420,11 +16640,7 @@
         },
         "price": "0.0000010777471504867694208848378517483270765111335651081860585682",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -17523,11 +16739,7 @@
         },
         "price": "0.0342646976471260940780243114349336950609102402253511858550141009",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -17626,11 +16838,7 @@
         },
         "price": "0.2779624711364130043666093829484388580836667168054104804545938017",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -17724,18 +16932,12 @@
           "logo_url": "https://randjhppd5rrnyp52hplsyqgbc5hox5veu7jsnfo4ryigl5g7mdq.arweave.net/iBo0ne8fYxbh_dHeuWIGCLp3X7UlPpk0ruRwgy-m-wc",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "0.0041788422661402690555848964520842408242199410405307100523786274",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -17817,9 +17019,7 @@
           "logo_url": "https://archive.cetus.zone/assets/image/sui/usdc_celer.png",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Celer"
-          ],
+          "labels": ["Celer"],
           "is_trusted": true
         },
         "coin_b": {
@@ -17836,11 +17036,7 @@
         },
         "price": "0.2788018163178052504253164253625908376564737596607169341114004526",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -17939,11 +17135,7 @@
         },
         "price": "0.0042529780829748168695455779163275785975353200719637792703352656",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -18025,9 +17217,7 @@
           "logo_url": "https://ln5rjzkrzlcrgctsbxebvz7gjhbngu7eqk5orymuktocmbgwn5oa.arweave.net/W3sU5VHKxRMKcg3IGufmScLTU-SCuujhlFTcJgTWb1w",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -18044,11 +17234,7 @@
         },
         "price": "0.2780430229073725283833231354497482594256249154216496609346901546",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -18147,11 +17333,7 @@
         },
         "price": "0.000000010248298519302877662610799089651647262104903086738923354",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -18250,11 +17432,7 @@
         },
         "price": "0.0000000000103064701506389845387111558033067518423177599632449817",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -18336,9 +17514,7 @@
           "logo_url": "https://4hl5riddvifwsfzqzggti3dyrekvhogjvwkaduy5w5bgs2k7zwga.arweave.net/4dfYoGOqC2kXMMmNNGx4iRVTuMmtlAHTHbdCaWlfzYw",
           "coingecko_id": "binance-coin-wormhole",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -18350,18 +17526,12 @@
           "logo_url": "https://klrhtty4kphjcsrez2eaeh6r27tbaayw3odjadigbrek544f3i2a.arweave.net/UuJ5zxxTzpFKJM6IAh_R1-YQAxbbhpANBgxIrvOF2jQ",
           "coingecko_id": "usd-coin-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "598.60501387494016946210645068044658608013280905036737875312724569",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -18460,11 +17630,7 @@
         },
         "price": "0.0000024627519396284808330106825370679955407830858751503047589081",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -18562,14 +17728,8 @@
           "is_trusted": true
         },
         "price": "3.4541346360640077067276906115773758456907770144919566787651460961",
-        "rewarder_usd": [
-          "0.0003705464124635778931606183747002538852607094246114923397766860497712493140912990057693156"
-        ],
-        "rewarder_apr": [
-          "70.05385818698753535377407364518689138850044452398289974615919414%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0.0003705464124635778931606183747002538852607094246114923397766860497712493140912990057693156"],
+        "rewarder_apr": ["70.05385818698753535377407364518689138850044452398289974615919414%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -18691,11 +17851,7 @@
         },
         "price": "3.2048497472875657078935639929710161624290890399734035877778733783",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -18794,11 +17950,7 @@
         },
         "price": "0.0147699327734496696515572214853460371232841598264620737948958212",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -18897,11 +18049,7 @@
         },
         "price": "0.0000000041891577678088031926863861137694341877692786946821533287",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -18983,9 +18131,7 @@
           "logo_url": "https://kbjqugvqmnqhcwzoc4cxd5d57apkgpvn24nc5q4e6kvdmtlku6la.arweave.net/UFMKGrBjYHFbLhcFcfR9-B6jPq3XGi7DhPKqNk1qp5Y",
           "coingecko_id": "tether-usd-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -19002,11 +18148,7 @@
         },
         "price": "0.2782242362343870081353146200431178601587304184508582374407315025",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -19105,11 +18247,7 @@
         },
         "price": "14783.8758122247283898728039724059926491614529321790373793295228229327",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -19203,18 +18341,12 @@
           "logo_url": "https://klrhtty4kphjcsrez2eaeh6r27tbaayw3odjadigbrek544f3i2a.arweave.net/UuJ5zxxTzpFKJM6IAh_R1-YQAxbbhpANBgxIrvOF2jQ",
           "coingecko_id": "usd-coin-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "0.1209680327820338446124751686995414594787562454266610227587639",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -19296,9 +18428,7 @@
           "logo_url": "https://3dgyzd2llawd2e6monsrlnrj4ijs3n3zkno37khmqcfbfjquvknq.arweave.net/2M2Mj0tYLD0TzHNlFbYp4hMtt3lTXb-o7ICKEqYUqps",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -19315,11 +18445,7 @@
         },
         "price": "0.0001636100814108577372404419817645045700060974280063499465908358",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -19401,9 +18527,7 @@
           "logo_url": "https://3dgyzd2llawd2e6monsrlnrj4ijs3n3zkno37khmqcfbfjquvknq.arweave.net/2M2Mj0tYLD0TzHNlFbYp4hMtt3lTXb-o7ICKEqYUqps",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -19415,18 +18539,12 @@
           "logo_url": "https://klrhtty4kphjcsrez2eaeh6r27tbaayw3odjadigbrek544f3i2a.arweave.net/UuJ5zxxTzpFKJM6IAh_R1-YQAxbbhpANBgxIrvOF2jQ",
           "coingecko_id": "usd-coin-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "0.0000502538332837684705673404499550454832466952744712862139578393",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -19525,11 +18643,7 @@
         },
         "price": "0.1318206785072405733567247184466120023335407439010903343349472405",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -19611,9 +18725,7 @@
           "logo_url": "https://co3xbx3vz2ww7tcs2tp4p36hdnkz677tuvqt6wgyfyoeefj6or6a.arweave.net/E7dw33XOrW_MUtTfx-_HG1Wff_OlYT9Y2C4cQhU-dHw",
           "coingecko_id": "usd-coin-wormhole-bnb",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -19630,11 +18742,7 @@
         },
         "price": "0.2782439795616438611221639786898805958290548296961337227460769698",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -19733,11 +18841,7 @@
         },
         "price": "0.3094410349731173883153858338568833094543952371903024489173998806",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -19836,11 +18940,7 @@
         },
         "price": "0.2674252437090594771485580424721568849039066235425902664226440628",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -19939,11 +19039,7 @@
         },
         "price": "0.2781616704152231978612374886426550091944080015718665937963036683",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -20037,18 +19133,12 @@
           "logo_url": "https://ucnnvm4qciffcmk5cervagst6et7v45hmtq33uy5awcr4kjivt5q.arweave.net/oJras5ASClExXREjUBpT8Sf686dk4b3THQWFHikorPs",
           "coingecko_id": "wrapped-btc-wormhole",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "0.9679490166224797160897657933289850504018770462743852813068131863",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -20147,11 +19237,7 @@
         },
         "price": "0.0000000000000236627181225570456368108755418218724793633136652704",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -20250,11 +19336,7 @@
         },
         "price": "0.2672357884609882580437160848670142764663212673837625006625388978",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -20336,9 +19418,7 @@
           "logo_url": "https://tqhb43iz7vqrys2frjp73jn2o3uzehbmybq2sv2me2fpo4rocbja.arweave.net/nA4ebRn9YRxLRYpf_aW6dumSHCzAYalXTCaK93IuEFI",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -20355,11 +19435,7 @@
         },
         "price": "0.1670654368492497058035167047097317985725675324804472838514584362",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -20458,11 +19534,7 @@
         },
         "price": "1.0667647683326850787329610700779871232810686732071952639333716971",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -20561,11 +19633,7 @@
         },
         "price": "0.0038051073516938356045163194009031475444874901039538191019724144",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -20664,11 +19732,7 @@
         },
         "price": "0.0030476697202834694234689924174590153094644279597745563952033494",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -20767,11 +19831,7 @@
         },
         "price": "0.0000003505471607965729919999587564999290881933442654236451379373",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -20870,11 +19930,7 @@
         },
         "price": "0.0001051054361861901178419600510848509610039560428482388110134742",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -20973,11 +20029,7 @@
         },
         "price": "0.0000000000008900852719011572564673717316580409145983740238751955",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -21071,18 +20123,12 @@
           "logo_url": "https://ucnnvm4qciffcmk5cervagst6et7v45hmtq33uy5awcr4kjivt5q.arweave.net/oJras5ASClExXREjUBpT8Sf686dk4b3THQWFHikorPs",
           "coingecko_id": "wrapped-btc-wormhole",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "0.0000150392839067452215352032113477697622354125848798869316149284",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -21164,9 +20210,7 @@
           "logo_url": "https://3dgyzd2llawd2e6monsrlnrj4ijs3n3zkno37khmqcfbfjquvknq.arweave.net/2M2Mj0tYLD0TzHNlFbYp4hMtt3lTXb-o7ICKEqYUqps",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -21182,14 +20226,8 @@
           "is_trusted": true
         },
         "price": "0.0000142396581686160541335406132393060945479252743828390246296001",
-        "rewarder_usd": [
-          "0"
-        ],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0"],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -21311,11 +20349,7 @@
         },
         "price": "0.0056077122506570019676579099373451033069435911697220934490850223",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -21414,11 +20448,7 @@
         },
         "price": "0.0000437521936769145305347707539748971176681847532109385943032913",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -21517,11 +20547,7 @@
         },
         "price": "0.0000040623424748595781843209369551506523137502514128748379081926",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -21620,11 +20646,7 @@
         },
         "price": "0.2802902245749362312236800934695035908660525148957635051835939318",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -21723,11 +20745,7 @@
         },
         "price": "11.9592003525521494747703157265104019053294828303443987212308671151",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -21809,9 +20827,7 @@
           "logo_url": "https://boqgq74qfqr7gfo4x7tpesefwkzawnbe4e3anop54gwsh3ctfdoa.arweave.net/C6Bof5AsI_MV3L_m8kiFsrILNCThNga5_eGtI-xTKNw",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -21828,11 +20844,7 @@
         },
         "price": "0.2797259420744393847677576985001010129604327083781575504076706748",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -21930,14 +20942,8 @@
           "is_trusted": true
         },
         "price": "1.0345122623473964220152086610282365832522415658195856719741537799",
-        "rewarder_usd": [
-          "0"
-        ],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0"],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -22059,11 +21065,7 @@
         },
         "price": "1.0400506455120736205708377175118373107607198760968873531647693789",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -22162,11 +21164,7 @@
         },
         "price": "0.3070899792910919041716710411831149751305062741687821113357640469",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -22248,9 +21246,7 @@
           "logo_url": "https://3dgyzd2llawd2e6monsrlnrj4ijs3n3zkno37khmqcfbfjquvknq.arweave.net/2M2Mj0tYLD0TzHNlFbYp4hMtt3lTXb-o7ICKEqYUqps",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -22267,11 +21263,7 @@
         },
         "price": "0.0000141082658565862518996001960270956998679253856429809881758458",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -22370,11 +21362,7 @@
         },
         "price": "0.0006420062374423066275956013110352447727477856879105537325519568",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -22468,18 +21456,12 @@
           "logo_url": "https://ucnnvm4qciffcmk5cervagst6et7v45hmtq33uy5awcr4kjivt5q.arweave.net/oJras5ASClExXREjUBpT8Sf686dk4b3THQWFHikorPs",
           "coingecko_id": "wrapped-btc-wormhole",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "0.000038199196073641402568162294583043416215151655528180576164446",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -22578,11 +21560,7 @@
         },
         "price": "0.0001175633376098195122517871886689765982346215185708237006038584",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -22681,11 +21659,7 @@
         },
         "price": "0.2717036577208063040023275509694565486878615591061128645292880563",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -22784,11 +21758,7 @@
         },
         "price": "0.0007005681438094576253810946012206796081653321535977169516627948",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -22887,11 +21857,7 @@
         },
         "price": "0.0000566883103845104099455027007496763806096118115279536450887791",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -22990,11 +21956,7 @@
         },
         "price": "0.0000001616608732593267184001306174460904795669066798089454171865",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -23076,9 +22038,7 @@
           "logo_url": "https://fe3wnx45vysrtzfr7kwg4aowt7aqb2tku4szytg2ayfwdyp3jk6q.arweave.net/KTdm352uJRnksfqsbgHWn8EA6mqnJZxM2gYLYeH7Sr0",
           "coingecko_id": "matic-wormhole",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -23095,11 +22055,7 @@
         },
         "price": "0.1251279768099365970422121245914210770355511038506629054952444739",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -23198,11 +22154,7 @@
         },
         "price": "0.0000125316539738761368079195079066617433175737224276152536253871",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -23301,11 +22253,7 @@
         },
         "price": "4930.674552384500360279480352618170362535308224940035509058908549",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -23404,11 +22352,7 @@
         },
         "price": "0.9256546343400605898275083209667097289511974366454915111809516831",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -23507,11 +22451,7 @@
         },
         "price": "832.3252973507200917523861851299593070695510018829084091084910160946",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -23610,11 +22550,7 @@
         },
         "price": "0.0001482657493308547581892961848963609224198518085752027295189908",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -23713,11 +22649,7 @@
         },
         "price": "0.0001635985126154380532676544951728989046286799211070986350102583",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -23816,11 +22748,7 @@
         },
         "price": "0.0059028442074583354792742435001900203488849254660209727117098191",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -23919,11 +22847,7 @@
         },
         "price": "1.042863357047102103772504683501447392387623154596182056931471282",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -24022,11 +22946,7 @@
         },
         "price": "0.0072466578203504109073159591996216517806195914719711832216242074",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -24108,9 +23028,7 @@
           "logo_url": "https://archive.cetus.zone/assets/image/sui/usdc_celer.png",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Celer"
-          ],
+          "labels": ["Celer"],
           "is_trusted": true
         },
         "coin_b": {
@@ -24127,11 +23045,7 @@
         },
         "price": "0.2783062756951605532913556658175383486025314384925527502613869209",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -24229,14 +23143,8 @@
           "is_trusted": true
         },
         "price": "0.0000697903339501095180760342327282056172252679154717209841629637",
-        "rewarder_usd": [
-          "0"
-        ],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0"],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -24358,11 +23266,7 @@
         },
         "price": "0.005321667296467190690076675630401283882047597337728160733929634",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -24461,11 +23365,7 @@
         },
         "price": "910.3028576413354657539365270762311543793988523412033610115591783093",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -24564,11 +23464,7 @@
         },
         "price": "0.0147831613706749239694893329202443479933489341380167730707880953",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -24667,11 +23563,7 @@
         },
         "price": "1.0794384739528482165726668085442422710077329400629498809867714506",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -24770,11 +23662,7 @@
         },
         "price": "0.0001653407694492001589914792442160193552093830363236128477677866",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -24873,11 +23761,7 @@
         },
         "price": "0.1155199835242285466714105264405405834088356378796362906355236634",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -24976,11 +23860,7 @@
         },
         "price": "0.2790581980732270611787928698715291310989868285196569052076669269",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -25079,11 +23959,7 @@
         },
         "price": "0.7027171988740796251866460093446249661766970122238210494024194478",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -25182,11 +24058,7 @@
         },
         "price": "0.0000000000008888262519000545465675644980750342073766951147362527",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -25285,11 +24157,7 @@
         },
         "price": "0.0000000000030035882144634491092419029320642885161461758059249535",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -25388,11 +24256,7 @@
         },
         "price": "0.0239642382095699207041372117886121321001329172858920558878138406",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -25491,11 +24355,7 @@
         },
         "price": "0.0002219382121785485350175203939931717887330387006112438906501",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -25577,9 +24437,7 @@
           "logo_url": "https://kbjqugvqmnqhcwzoc4cxd5d57apkgpvn24nc5q4e6kvdmtlku6la.arweave.net/UFMKGrBjYHFbLhcFcfR9-B6jPq3XGi7DhPKqNk1qp5Y",
           "coingecko_id": "tether-usd-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -25596,11 +24454,7 @@
         },
         "price": "0.285099291259048658771743368968793684854862296422773460736349182",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -25699,11 +24553,7 @@
         },
         "price": "0.0006433827619543918687314658649165036808275916153376595507085283",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -25802,11 +24652,7 @@
         },
         "price": "3.3963865039717193857246302360836918102781495866045225216601287762",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -25905,11 +24751,7 @@
         },
         "price": "0.0352291207171185833958165815624540783559979178306524466631696009",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -25991,9 +24833,7 @@
           "logo_url": "https://kbjqugvqmnqhcwzoc4cxd5d57apkgpvn24nc5q4e6kvdmtlku6la.arweave.net/UFMKGrBjYHFbLhcFcfR9-B6jPq3XGi7DhPKqNk1qp5Y",
           "coingecko_id": "tether-usd-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -26005,18 +24845,12 @@
           "logo_url": "https://klrhtty4kphjcsrez2eaeh6r27tbaayw3odjadigbrek544f3i2a.arweave.net/UuJ5zxxTzpFKJM6IAh_R1-YQAxbbhpANBgxIrvOF2jQ",
           "coingecko_id": "usd-coin-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "1.0007667961207186872952516271940644532989466085350592535892256912",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -26115,11 +24949,7 @@
         },
         "price": "0.0375915689689001834430435327196951106169241483684797225269057833",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -26218,11 +25048,7 @@
         },
         "price": "0.0000156999557468315384592261915616665853715090279201751255681691",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -26321,11 +25147,7 @@
         },
         "price": "0.0329405461194428023094800930937554161407183866511092766559455292",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -26424,11 +25246,7 @@
         },
         "price": "0.046291637585853206259632634698315515089701839742249585032879709",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -26522,18 +25340,12 @@
           "logo_url": "https://ln5rjzkrzlcrgctsbxebvz7gjhbngu7eqk5orymuktocmbgwn5oa.arweave.net/W3sU5VHKxRMKcg3IGufmScLTU-SCuujhlFTcJgTWb1w",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "1",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -26632,11 +25444,7 @@
         },
         "price": "0.0776245009048081056284686239765063289688996906897294878498022726",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -26735,11 +25543,7 @@
         },
         "price": "0.0180999999999999999977016624016300605229520316953066071245026079",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "",
-          "",
-          ""
-        ],
+        "rewarder_apr": ["", "", ""],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -26838,11 +25642,7 @@
         },
         "price": "0.000000000001388772783532459571462263978650101552624725067309938",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -26941,11 +25741,7 @@
         },
         "price": "881.9798344022291954732784602913178447647054024244731094083349154748",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -27044,11 +25840,7 @@
         },
         "price": "0.0000209999999999999999947734039996726294365465532627524002331088",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "",
-          "",
-          ""
-        ],
+        "rewarder_apr": ["", "", ""],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -27130,9 +25922,7 @@
           "logo_url": "https://archive.cetus.zone/assets/image/sui/usdt_celer.png",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Celer"
-          ],
+          "labels": ["Celer"],
           "is_trusted": true
         },
         "coin_b": {
@@ -27149,11 +25939,7 @@
         },
         "price": "10.1733242216679209437240010862119816760083638194755227017607993034",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -27252,11 +26038,7 @@
         },
         "price": "0.0000282442419994677080529547253657048403555870148912949531395664",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -27355,11 +26137,7 @@
         },
         "price": "0.0006140524378343172871813938359377523419738649840083914179330019",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -27458,11 +26236,7 @@
         },
         "price": "311.3612920315865693068631974496929564497644719460948679892972698",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -27544,9 +26318,7 @@
           "logo_url": "https://ucnnvm4qciffcmk5cervagst6et7v45hmtq33uy5awcr4kjivt5q.arweave.net/oJras5ASClExXREjUBpT8Sf686dk4b3THQWFHikorPs",
           "coingecko_id": "wrapped-btc-wormhole",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -27563,11 +26335,7 @@
         },
         "price": "32303.444606563638958237499463526684130762799031770281412588874329082",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -27666,11 +26434,7 @@
         },
         "price": "3103113020.6824099999999998135305412567069134084707345878646062020678186855",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "",
-          "",
-          ""
-        ],
+        "rewarder_apr": ["", "", ""],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -27752,9 +26516,7 @@
           "logo_url": "https://3dgyzd2llawd2e6monsrlnrj4ijs3n3zkno37khmqcfbfjquvknq.arweave.net/2M2Mj0tYLD0TzHNlFbYp4hMtt3lTXb-o7ICKEqYUqps",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -27771,11 +26533,7 @@
         },
         "price": "0.0001055917039404313622605873077713709626869112519458476342342909",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -27874,11 +26632,7 @@
         },
         "price": "0.0000209999999999999999947734039996726294365465532627524002331088",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "",
-          "",
-          ""
-        ],
+        "rewarder_apr": ["", "", ""],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -27977,11 +26731,7 @@
         },
         "price": "0.9001696278291244081538437624166163111423618410820703363992773912",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -28080,11 +26830,7 @@
         },
         "price": "0.9880723065589366354833278242982828822151172368460237355019721356",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -28166,9 +26912,7 @@
           "logo_url": "https://randjhppd5rrnyp52hplsyqgbc5hox5veu7jsnfo4ryigl5g7mdq.arweave.net/iBo0ne8fYxbh_dHeuWIGCLp3X7UlPpk0ruRwgy-m-wc",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -28185,11 +26929,7 @@
         },
         "price": "5623.1789202446528539505725883564702630099832344115163232233965760193",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -28288,11 +27028,7 @@
         },
         "price": "0.0002160971996190603925252553029469607023791494868234017674164361",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -28391,11 +27127,7 @@
         },
         "price": "0.0006199999999999999998105968592498756821117106090839789026795059",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -28494,11 +27226,7 @@
         },
         "price": "1.4247354731203947395983220494801592105521612895697848210145857756",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -28592,18 +27320,12 @@
           "logo_url": "https://kbjqugvqmnqhcwzoc4cxd5d57apkgpvn24nc5q4e6kvdmtlku6la.arweave.net/UFMKGrBjYHFbLhcFcfR9-B6jPq3XGi7DhPKqNk1qp5Y",
           "coingecko_id": "tether-usd-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "0.9991481182155781784324474242073005132794340166965529069321916",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -28702,11 +27424,7 @@
         },
         "price": "0.006199999999999999993958114387647840609036637114531364969734484",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "",
-          "",
-          ""
-        ],
+        "rewarder_apr": ["", "", ""],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -28788,9 +27506,7 @@
           "logo_url": "https://klrhtty4kphjcsrez2eaeh6r27tbaayw3odjadigbrek544f3i2a.arweave.net/UuJ5zxxTzpFKJM6IAh_R1-YQAxbbhpANBgxIrvOF2jQ",
           "coingecko_id": "usd-coin-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -28807,11 +27523,7 @@
         },
         "price": "0.2989536621823617338971147058468964687340524602836330720508245032",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "",
-          "",
-          ""
-        ],
+        "rewarder_apr": ["", "", ""],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -28905,18 +27617,12 @@
           "logo_url": "https://archive.cetus.zone/assets/image/sui/usdc_celer.png",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Celer"
-          ],
+          "labels": ["Celer"],
           "is_trusted": true
         },
         "price": "0.9926414338317184239190431987264798301491933114672973303755750497",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -29015,11 +27721,7 @@
         },
         "price": "1.0002000400080015999974194545101867093892967069134259694051174372",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -29118,11 +27820,7 @@
         },
         "price": "1",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -29221,11 +27919,7 @@
         },
         "price": "0.0005545026245824767163162181092506372384416776248582990403971864",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -29307,9 +28001,7 @@
           "logo_url": "https://hvyfngb6s6wsyytjzbvqjunzqvwlzjjhfmk4z44yacx7sq7fidxa.arweave.net/PXBWmD6XrSxiachrBNG5hWy8pScrFczzmACv-UPlQO4",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -29326,11 +28018,7 @@
         },
         "price": "13.1153389741902126628794961462630788470624689685331679803820046351",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -29429,11 +28117,7 @@
         },
         "price": "0.0000009629999999999994997200752174334900539550633578853222986",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "",
-          "",
-          ""
-        ],
+        "rewarder_apr": ["", "", ""],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -29532,11 +28216,7 @@
         },
         "price": "0.0000209999999999999999947734039996726294365465532627524002331088",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "",
-          "",
-          ""
-        ],
+        "rewarder_apr": ["", "", ""],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -29635,11 +28315,7 @@
         },
         "price": "0.066652375632197763309133877083511565326965844097349291333378006",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -29738,11 +28414,7 @@
         },
         "price": "0.0109804717312466243668477597866339632571376987025530783357424589",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -29836,18 +28508,12 @@
           "logo_url": "https://ucnnvm4qciffcmk5cervagst6et7v45hmtq33uy5awcr4kjivt5q.arweave.net/oJras5ASClExXREjUBpT8Sf686dk4b3THQWFHikorPs",
           "coingecko_id": "wrapped-btc-wormhole",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "0.0000000080571526681435107507424386826863055842785417698490660255",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -29941,18 +28607,12 @@
           "logo_url": "https://kbjqugvqmnqhcwzoc4cxd5d57apkgpvn24nc5q4e6kvdmtlku6la.arweave.net/UFMKGrBjYHFbLhcFcfR9-B6jPq3XGi7DhPKqNk1qp5Y",
           "coingecko_id": "tether-usd-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "1",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -30034,9 +28694,7 @@
           "logo_url": "https://t4gq524jdiihjr6ihouhzsemfczi3eq2cnjyhbfms5utl3hueu6q.arweave.net/nw0O64kaEHTHyDuofMiMKLKNkhoTU4OErJdpNez0JT0",
           "coingecko_id": "ethereum-wormhole",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -30053,11 +28711,7 @@
         },
         "price": "1573.3020308719541290219486872285497935281016756274889323280490851533",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -30243,11 +28897,7 @@
         },
         "price": "1342.2420909681087066863486592231670661891363421932345332534099553825",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -30346,11 +28996,7 @@
         },
         "price": "1.0001814815751327700839605444824963885412703913248985229006241101",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -30449,11 +29095,7 @@
         },
         "price": "0.0793352003399700576224245721339161876161045047455706278830806016",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -30552,11 +29194,7 @@
         },
         "price": "0.0000000000009629999999998947097456164357582281529788190678237106",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "",
-          "",
-          ""
-        ],
+        "rewarder_apr": ["", "", ""],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -30655,11 +29293,7 @@
         },
         "price": "953.402751846310363190515702305274849970206554533595518954232788274",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -30753,18 +29387,12 @@
           "logo_url": "https://kbjqugvqmnqhcwzoc4cxd5d57apkgpvn24nc5q4e6kvdmtlku6la.arweave.net/UFMKGrBjYHFbLhcFcfR9-B6jPq3XGi7DhPKqNk1qp5Y",
           "coingecko_id": "tether-usd-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "0.9999999999999999983344297071575001298322191403415957606396457",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "",
-          "",
-          ""
-        ],
+        "rewarder_apr": ["", "", ""],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -30863,11 +29491,7 @@
         },
         "price": "1745249.90677747071702841070776746912449824713941102374331291824137348",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -30966,11 +29590,7 @@
         },
         "price": "1199.7224455308481779751076736144987075139933447617594091285308204259",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -31069,11 +29689,7 @@
         },
         "price": "928.9616508846897085765249036504178086528957006577087632853159220861",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -31155,9 +29771,7 @@
           "logo_url": "https://dvv5kcjybfklcqlql7dj7mfrfzj4bgunkcdgz6uh3re4usboi5ba.arweave.net/HWvVCTgJVLFBcF_Gn7CxLlPAmo1Qhmz6h9xJykguR0I",
           "coingecko_id": "avalanche-wormhole",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -31174,11 +29788,7 @@
         },
         "price": "15.8216381328118209618976970910428765956020403133305182052716888919",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -31260,9 +29870,7 @@
           "logo_url": "https://klrhtty4kphjcsrez2eaeh6r27tbaayw3odjadigbrek544f3i2a.arweave.net/UuJ5zxxTzpFKJM6IAh_R1-YQAxbbhpANBgxIrvOF2jQ",
           "coingecko_id": "usd-coin-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -31279,11 +29887,7 @@
         },
         "price": "0.9990366060561737837730517967951712821950320150781922907524084052",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -31382,11 +29986,7 @@
         },
         "price": "9.2850510677808727934952767033635619544634818123360318893339996563",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "",
-          "",
-          ""
-        ],
+        "rewarder_apr": ["", "", ""],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -31485,11 +30085,7 @@
         },
         "price": "0.0000000000986394736223685940770709433251522622764340155220211372",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -31588,11 +30184,7 @@
         },
         "price": "0.9915528935851605693563881441273792930404450160994821640177995269",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -31674,9 +30266,7 @@
           "logo_url": "https://3dgyzd2llawd2e6monsrlnrj4ijs3n3zkno37khmqcfbfjquvknq.arweave.net/2M2Mj0tYLD0TzHNlFbYp4hMtt3lTXb-o7ICKEqYUqps",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -31693,11 +30283,7 @@
         },
         "price": "0.0000823558218907828395954616782806121466975731382464231238830351",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -31796,11 +30382,7 @@
         },
         "price": "0.0000000000000001695734244013802876702990361151765933962114904499",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -31882,9 +30464,7 @@
           "logo_url": "https://tqhb43iz7vqrys2frjp73jn2o3uzehbmybq2sv2me2fpo4rocbja.arweave.net/nA4ebRn9YRxLRYpf_aW6dumSHCzAYalXTCaK93IuEFI",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -31901,11 +30481,7 @@
         },
         "price": "0.3983563138755337152944136203907017852246821680137864887151136131",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -32004,11 +30580,7 @@
         },
         "price": "0.1095782788507072779107009555396439369825629698254682127500189238",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -32090,9 +30662,7 @@
           "logo_url": "https://archive.cetus.zone/assets/image/sui/usdc_celer.png",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Celer"
-          ],
+          "labels": ["Celer"],
           "is_trusted": true
         },
         "coin_b": {
@@ -32109,11 +30679,7 @@
         },
         "price": "0.8903907600795143738275267623277706112972395584177337168912524317",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -32212,11 +30778,7 @@
         },
         "price": "0.0103299052591849966714814819668050063692084075564916845430973783",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -32298,9 +30860,7 @@
           "logo_url": "https://3dgyzd2llawd2e6monsrlnrj4ijs3n3zkno37khmqcfbfjquvknq.arweave.net/2M2Mj0tYLD0TzHNlFbYp4hMtt3lTXb-o7ICKEqYUqps",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -32312,18 +30872,12 @@
           "logo_url": "https://klrhtty4kphjcsrez2eaeh6r27tbaayw3odjadigbrek544f3i2a.arweave.net/UuJ5zxxTzpFKJM6IAh_R1-YQAxbbhpANBgxIrvOF2jQ",
           "coingecko_id": "usd-coin-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "0.0000118810641556956152656735062464252165848139004884217461624692",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -32422,11 +30976,7 @@
         },
         "price": "0.0000100382689616508081361169330766504049085043709336613862656684",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -32525,11 +31075,7 @@
         },
         "price": "14.2943880664128766878728978347891569621847587743129902122580903241",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -32611,9 +31157,7 @@
           "logo_url": "https://ucnnvm4qciffcmk5cervagst6et7v45hmtq33uy5awcr4kjivt5q.arweave.net/oJras5ASClExXREjUBpT8Sf686dk4b3THQWFHikorPs",
           "coingecko_id": "wrapped-btc-wormhole",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -32630,11 +31174,7 @@
         },
         "price": "33587.7499640874823241040887208582634498584778422546551091986054967748",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -32716,9 +31256,7 @@
           "logo_url": "https://kbjqugvqmnqhcwzoc4cxd5d57apkgpvn24nc5q4e6kvdmtlku6la.arweave.net/UFMKGrBjYHFbLhcFcfR9-B6jPq3XGi7DhPKqNk1qp5Y",
           "coingecko_id": "tether-usd-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -32730,18 +31268,12 @@
           "logo_url": "https://klrhtty4kphjcsrez2eaeh6r27tbaayw3odjadigbrek544f3i2a.arweave.net/UuJ5zxxTzpFKJM6IAh_R1-YQAxbbhpANBgxIrvOF2jQ",
           "coingecko_id": "usd-coin-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "1.0088994606692229252625584613818419132843335588763470356596841185",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -32840,11 +31372,7 @@
         },
         "price": "0.000169838184227696580533698761103320037111563300659117745",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -32943,11 +31471,7 @@
         },
         "price": "1.0001347246463610672163834355415100643230261604774278004004382167",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -33029,9 +31553,7 @@
           "logo_url": "https://zuwfvhekgt5rgxaa5e5yraqnxeivprtu2siky5qtffa2ysvcvh6q.arweave.net/zSxanIo0-xNcAOk7iIINuRFXxnTUkKx2EylBrEqiqf0",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -33048,11 +31570,7 @@
         },
         "price": "0.2669999999999999999908175485512274028496312785468143350517066148",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -33151,11 +31669,7 @@
         },
         "price": "35.8820265741799625878759300182433705028174484239731473706057639734",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -33254,11 +31768,7 @@
         },
         "price": "0.0000000000000934451377690588606016622318061253362166529089285875",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -33357,11 +31867,7 @@
         },
         "price": "0.0003078191707435630450196972152402876536414070620212851410489194",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -33460,11 +31966,7 @@
         },
         "price": "1.0393516826923820905567414874847113588485329896398937550785089568",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -33563,11 +32065,7 @@
         },
         "price": "6.2456562444420540040397690648949425973905926912304757692932580311",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -33661,20 +32159,12 @@
           "logo_url": "https://klrhtty4kphjcsrez2eaeh6r27tbaayw3odjadigbrek544f3i2a.arweave.net/UuJ5zxxTzpFKJM6IAh_R1-YQAxbbhpANBgxIrvOF2jQ",
           "coingecko_id": "usd-coin-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "0.9994909575921339651138729835768687849828256699638193449097139",
-        "rewarder_usd": [
-          "0"
-        ],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0"],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -33796,11 +32286,7 @@
         },
         "price": "1.0293051188425345109427991718641197124877794305195130712162664023",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -33882,9 +32368,7 @@
           "logo_url": "https://kbjqugvqmnqhcwzoc4cxd5d57apkgpvn24nc5q4e6kvdmtlku6la.arweave.net/UFMKGrBjYHFbLhcFcfR9-B6jPq3XGi7DhPKqNk1qp5Y",
           "coingecko_id": "tether-usd-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -33896,18 +32380,12 @@
           "logo_url": "https://3dgyzd2llawd2e6monsrlnrj4ijs3n3zkno37khmqcfbfjquvknq.arweave.net/2M2Mj0tYLD0TzHNlFbYp4hMtt3lTXb-o7ICKEqYUqps",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "41863.524040102148622357575630741365602073703285346240583602594358076",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -34006,11 +32484,7 @@
         },
         "price": "0.0001052212284917551216734885455792101113679180214372697354678268",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -34109,11 +32583,7 @@
         },
         "price": "0.0731020968296104426831922192088486575117424464235155318669273413",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -34212,11 +32682,7 @@
         },
         "price": "1.4456053706594271530872377721764559262476212884403622963753761036",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -34298,9 +32764,7 @@
           "logo_url": "https://3dgyzd2llawd2e6monsrlnrj4ijs3n3zkno37khmqcfbfjquvknq.arweave.net/2M2Mj0tYLD0TzHNlFbYp4hMtt3lTXb-o7ICKEqYUqps",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -34317,11 +32781,7 @@
         },
         "price": "0.0000087022659633177164660645902158140841930290191388275886015945",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -34403,9 +32863,7 @@
           "logo_url": "https://randjhppd5rrnyp52hplsyqgbc5hox5veu7jsnfo4ryigl5g7mdq.arweave.net/iBo0ne8fYxbh_dHeuWIGCLp3X7UlPpk0ruRwgy-m-wc",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -34417,18 +32875,12 @@
           "logo_url": "https://t4gq524jdiihjr6ihouhzsemfczi3eq2cnjyhbfms5utl3hueu6q.arweave.net/nw0O64kaEHTHyDuofMiMKLKNkhoTU4OErJdpNez0JT0",
           "coingecko_id": "ethereum-wormhole",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "0.0661987283226474042637474144653587238171294688281918508193351392",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -34510,9 +32962,7 @@
           "logo_url": "https://3dgyzd2llawd2e6monsrlnrj4ijs3n3zkno37khmqcfbfjquvknq.arweave.net/2M2Mj0tYLD0TzHNlFbYp4hMtt3lTXb-o7ICKEqYUqps",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -34529,11 +32979,7 @@
         },
         "price": "0.0000069326787987110060136131187467637375633738248140809288847523",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -34632,11 +33078,7 @@
         },
         "price": "1.2200001949999999999994182192205859949354437731430929925776731969",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -34735,11 +33177,7 @@
         },
         "price": "0.0000209999999999999999947734039996726294365465532627524002331088",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "",
-          "",
-          ""
-        ],
+        "rewarder_apr": ["", "", ""],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -34838,11 +33276,7 @@
         },
         "price": "0.0002804520342388595985584793412301483982673736035293154125243471",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -34941,11 +33375,7 @@
         },
         "price": "1",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -35044,11 +33474,7 @@
         },
         "price": "1",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "",
-          "",
-          ""
-        ],
+        "rewarder_apr": ["", "", ""],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -35147,11 +33573,7 @@
         },
         "price": "0.0000111982277728990296523664268154311460352509006043900065169497",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -35250,11 +33672,7 @@
         },
         "price": "0.000030553330171829155765793688711830627074558727191622016952457",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -35348,18 +33766,12 @@
           "logo_url": "https://archive.cetus.zone/assets/image/sui/usdc_celer.png",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Celer"
-          ],
+          "labels": ["Celer"],
           "is_trusted": true
         },
         "price": "0.9928920671150734009809596315577217063471162538564142438370650317",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -35458,11 +33870,7 @@
         },
         "price": "13.983476525919347404711382687889753266010375504691029069245244266",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -35561,11 +33969,7 @@
         },
         "price": "0.0099959965951840235762065273492615955242548664686955046531601313",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -35734,9 +34138,7 @@
           "logo_url": "https://randjhppd5rrnyp52hplsyqgbc5hox5veu7jsnfo4ryigl5g7mdq.arweave.net/iBo0ne8fYxbh_dHeuWIGCLp3X7UlPpk0ruRwgy-m-wc",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -35753,11 +34155,7 @@
         },
         "price": "1259.9942121557183329178856340918701939525750360236770202467493333964",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -35926,9 +34324,7 @@
           "logo_url": "https://4hl5riddvifwsfzqzggti3dyrekvhogjvwkaduy5w5bgs2k7zwga.arweave.net/4dfYoGOqC2kXMMmNNGx4iRVTuMmtlAHTHbdCaWlfzYw",
           "coingecko_id": "binance-coin-wormhole",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -35945,11 +34341,7 @@
         },
         "price": "0.0002819187828558458552958889434887010594166063243916091666981548",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -36031,9 +34423,7 @@
           "logo_url": "https://tqhb43iz7vqrys2frjp73jn2o3uzehbmybq2sv2me2fpo4rocbja.arweave.net/nA4ebRn9YRxLRYpf_aW6dumSHCzAYalXTCaK93IuEFI",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -36050,11 +34440,7 @@
         },
         "price": "0.6629710223799418472001065067898226782922245104357231123334233401",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -36148,18 +34534,12 @@
           "logo_url": "https://archive.cetus.zone/assets/image/sui/usdc_celer.png",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Celer"
-          ],
+          "labels": ["Celer"],
           "is_trusted": true
         },
         "price": "0.9986873854491983446232508081265498991872784017982686123550235311",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -36258,11 +34638,7 @@
         },
         "price": "0.0007363978756183003678623190685318901953849126243390990816779453",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -36361,11 +34737,7 @@
         },
         "price": "0.1574624929113121615914408959239316168796025759409364708738465247",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -36464,11 +34836,7 @@
         },
         "price": "0.9999999999999999998915797827514495566021934557900615476273437163",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "",
-          "",
-          ""
-        ],
+        "rewarder_apr": ["", "", ""],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -36567,11 +34935,7 @@
         },
         "price": "0.0003714508253406546125979621868146052644638560802507493648035208",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -36670,11 +35034,7 @@
         },
         "price": "2034782.148881918410563169972735726366984107361424324010220001157927896",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -36773,11 +35133,7 @@
         },
         "price": "0.0219319896938524685757444048734878086891781789261724474430381469",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -36859,9 +35215,7 @@
           "logo_url": "https://archive.cetus.zone/assets/image/sui/usdc_celer.png",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Celer"
-          ],
+          "labels": ["Celer"],
           "is_trusted": true
         },
         "coin_b": {
@@ -36878,11 +35232,7 @@
         },
         "price": "1.8207365542800213086758996943370086563320406398740099778837438348",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -36981,11 +35331,7 @@
         },
         "price": "0.0620759742124136606037265926431384717838570901027811783397375223",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -37084,11 +35430,7 @@
         },
         "price": "0.3348597585335302646118365758891776730214450160950784989836002893",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -37187,11 +35529,7 @@
         },
         "price": "1.0004999999999999999656456017993621231444487126632647663604067681",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -37290,11 +35628,7 @@
         },
         "price": "3488099.648249834338506251905872501047138790244482735093210470004001",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -37393,11 +35727,7 @@
         },
         "price": "0.0000999299179110898648405968810129624991383797684424856677464089",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -37479,9 +35809,7 @@
           "logo_url": "https://dvv5kcjybfklcqlql7dj7mfrfzj4bgunkcdgz6uh3re4usboi5ba.arweave.net/HWvVCTgJVLFBcF_Gn7CxLlPAmo1Qhmz6h9xJykguR0I",
           "coingecko_id": "avalanche-wormhole",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -37498,11 +35826,7 @@
         },
         "price": "14.1308720956490281408506870451394875019621838536118020306098533195",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -37601,11 +35925,7 @@
         },
         "price": "0.0000002279574469602376243262185626506523416190366952296690019483",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -37704,11 +36024,7 @@
         },
         "price": "1.0484131969683235885431087101554996515323654517032848704790483389",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -37807,11 +36123,7 @@
         },
         "price": "0.0003996554506803089620696797787775122044201476440903122853215703",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -37910,11 +36222,7 @@
         },
         "price": "0.0000000086309420256152111898031335566843733825632178314463956392",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -38013,11 +36321,7 @@
         },
         "price": "49999.9999999999999999921907445743495012164209290590388250458675196256",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -38116,11 +36420,7 @@
         },
         "price": "0.0002436786308604094824668500123239836024445169735727005509654746",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -38219,11 +36519,7 @@
         },
         "price": "0.0011007537809878326659044091542981761987682424581111364650586766",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -38305,9 +36601,7 @@
           "logo_url": "https://boqgq74qfqr7gfo4x7tpesefwkzawnbe4e3anop54gwsh3ctfdoa.arweave.net/C6Bof5AsI_MV3L_m8kiFsrILNCThNga5_eGtI-xTKNw",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -38324,11 +36618,7 @@
         },
         "price": "5.1029842652687593204557667675186155155830421299676910976730384603",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -38410,9 +36700,7 @@
           "logo_url": "https://tqhb43iz7vqrys2frjp73jn2o3uzehbmybq2sv2me2fpo4rocbja.arweave.net/nA4ebRn9YRxLRYpf_aW6dumSHCzAYalXTCaK93IuEFI",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -38429,11 +36717,7 @@
         },
         "price": "0.1881183458026210654237605452859234648510243266486703313900768709",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -38532,11 +36816,7 @@
         },
         "price": "0.0038340926300076733517673821836160753221528971540179809397396062",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -38618,9 +36898,7 @@
           "logo_url": "https://kbjqugvqmnqhcwzoc4cxd5d57apkgpvn24nc5q4e6kvdmtlku6la.arweave.net/UFMKGrBjYHFbLhcFcfR9-B6jPq3XGi7DhPKqNk1qp5Y",
           "coingecko_id": "tether-usd-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -38637,11 +36915,7 @@
         },
         "price": "0.7352559398360197077825139185884522246653588832004766828234881106",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -38739,14 +37013,8 @@
           "is_trusted": true
         },
         "price": "0.0000778796255962101187753121521215873353556352662425801363204575",
-        "rewarder_usd": [
-          "0"
-        ],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_usd": ["0"],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -38868,11 +37136,7 @@
         },
         "price": "0.0000000000006225851379690530680134237805405043208396202553575324",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -38971,11 +37235,7 @@
         },
         "price": "0.0000000000000835946950705383765104045860762132690680719554397187",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -39057,9 +37317,7 @@
           "logo_url": "https://t4gq524jdiihjr6ihouhzsemfczi3eq2cnjyhbfms5utl3hueu6q.arweave.net/nw0O64kaEHTHyDuofMiMKLKNkhoTU4OErJdpNez0JT0",
           "coingecko_id": "ethereum-wormhole",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -39076,11 +37334,7 @@
         },
         "price": "1304.875605564154028151648140261268499167386093553521113382766872058",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -39162,9 +37416,7 @@
           "logo_url": "https://kbjqugvqmnqhcwzoc4cxd5d57apkgpvn24nc5q4e6kvdmtlku6la.arweave.net/UFMKGrBjYHFbLhcFcfR9-B6jPq3XGi7DhPKqNk1qp5Y",
           "coingecko_id": "tether-usd-wormhole-from-ethereum",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -39181,11 +37433,7 @@
         },
         "price": "15607435.060227854927208053496238662302375089810760335103443205973255839",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -39284,11 +37532,7 @@
         },
         "price": "0.0000705633001191742036265957235738851502889596607656226086242416",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -39370,9 +37614,7 @@
           "logo_url": "https://hvyfngb6s6wsyytjzbvqjunzqvwlzjjhfmk4z44yacx7sq7fidxa.arweave.net/PXBWmD6XrSxiachrBNG5hWy8pScrFczzmACv-UPlQO4",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -39389,11 +37631,7 @@
         },
         "price": "81.2133773180025455348010668720552292700714120574565861756823675232",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -39492,11 +37730,7 @@
         },
         "price": "0.0051825789952423386210014722213656594269290364276744914880938544",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -39595,11 +37829,7 @@
         },
         "price": "0.0004480253287489285515374630409403425625541594024342472219961723",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -39681,9 +37911,7 @@
           "logo_url": "https://archive.cetus.zone/assets/image/sui/usdt_celer.png",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Celer"
-          ],
+          "labels": ["Celer"],
           "is_trusted": true
         },
         "coin_b": {
@@ -39695,9 +37923,7 @@
           "logo_url": "https://archive.cetus.zone/assets/image/sui/usdc_celer.png",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Celer"
-          ],
+          "labels": ["Celer"],
           "is_trusted": true
         },
         "price": "1.0003986067726761378335466538828404035316183270426810085609005182",
@@ -39789,11 +38015,7 @@
         },
         "price": "0.0000276339893211255983087922895638473891099791814269026920234584",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -39892,11 +38114,7 @@
         },
         "price": "0.0000000000125883897697667811291620300812906253143683731999676268",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -39995,11 +38213,7 @@
         },
         "price": "0.9998351670576211688828256070914138365752148141858942273899448582",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -40081,9 +38295,7 @@
           "logo_url": "https://co3xbx3vz2ww7tcs2tp4p36hdnkz677tuvqt6wgyfyoeefj6or6a.arweave.net/E7dw33XOrW_MUtTfx-_HG1Wff_OlYT9Y2C4cQhU-dHw",
           "coingecko_id": "usd-coin-wormhole-bnb",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "coin_b": {
@@ -40100,11 +38312,7 @@
         },
         "price": "0.2633942387750242465098959623600698079115579914626800667083800188",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -40198,18 +38406,12 @@
           "logo_url": "https://boqgq74qfqr7gfo4x7tpesefwkzawnbe4e3anop54gwsh3ctfdoa.arweave.net/C6Bof5AsI_MV3L_m8kiFsrILNCThNga5_eGtI-xTKNw",
           "coingecko_id": "",
           "project_url": "",
-          "labels": [
-            "Wormhole"
-          ],
+          "labels": ["Wormhole"],
           "is_trusted": true
         },
         "price": "1.0054642101422018700384390631232820387414364196161745677990892333",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": false,
         "price_range_config": null,
         "object": {
@@ -40308,11 +38510,7 @@
         },
         "price": "0.7260127377131203018264823884619187014059847162508279749131555",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "0%",
-          "0%",
-          "0%"
-        ],
+        "rewarder_apr": ["0%", "0%", "0%"],
         "is_forward": true,
         "price_range_config": null,
         "object": {
@@ -40498,11 +38696,7 @@
         },
         "price": "0.0000209999999999999999947734039996726294365465532627524002331088",
         "rewarder_usd": [],
-        "rewarder_apr": [
-          "",
-          "",
-          ""
-        ],
+        "rewarder_apr": ["", "", ""],
         "is_forward": true,
         "price_range_config": null,
         "object": {
