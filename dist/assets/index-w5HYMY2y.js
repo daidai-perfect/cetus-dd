@@ -1,0 +1,2 @@
+import"./vendor-DYqnJE5Q.js";import{d as f,a0 as c,w as p}from"./index-nq5C95Tz.js";const _=r=>`${f(r).mul(100).toString()}%`,m=(r,a)=>r?r&&!a?!!(r!=null&&r.is_trusted):!!(a!=null&&a.find(s=>{var d,u;return((d=c(s==null?void 0:s.coin_type))==null?void 0:d.full_address)===((u=c((r==null?void 0:r.coin_type)||""))==null?void 0:u.full_address)})):!1,y=(r,a)=>f(r).gt(0)?`${p(r)} ${a}`:"";export{y as f,_ as g,m as i};
+//# sourceMappingURL=index-w5HYMY2y.js.map
