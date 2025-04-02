@@ -1,1 +1,0 @@
-import{d as o,j as i,T as n}from"./index-BAaNMf6I.js";function x({value:t}){const r=o(t).gte(0),e=Number(t).toFixed(2);return i.jsx(n,{fontSize:"12px",fontWeight:"500",color:r?"primary_green":"primary_red",children:r?`+${e}%`:`${e}%`})}export{x as R};
