@@ -1,2 +1,0 @@
-import{ab as n,j as l}from"./vendor-DXHkIl66.js";import{i as o}from"./index-D1te9NbD.js";var a=(e=>(e.Swap="Swap",e.Limit="Limit",e.DCA="DCA",e))(a||{});const s=[{label:a.Swap},{label:a.Limit},{label:a.DCA}];function m(e){const{currTradeTab:r}=e,t=n();return l.jsx(o,{type:"borderTab",currentTab:r,tabList:s,handleChangeTab:i=>{i.label===a.Limit?t("/limit"):i.label===a.DCA?t("/dca"):t("/swap")},wrapStyle:{bg:"none",h:"52px",gap:"32px",border:"none"},itemStyle:{fontSize:"16px",fontWeight:500,position:"relative"}})}export{m as T,a};
-//# sourceMappingURL=TradeTab-B9SovDhl.js.map
