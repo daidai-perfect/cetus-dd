@@ -1,0 +1,2 @@
+import{a as t}from"./vendor-BulRdKUe.js";var s=function(r){return typeof r=="function"},c=function(r){return typeof r=="number"};function f(r){var u=t.useRef(r);u.current=t.useMemo(function(){return r},[r]);var n=t.useRef();return n.current||(n.current=function(){for(var a=[],e=0;e<arguments.length;e++)a[e]=arguments[e];return u.current.apply(this,a)}),n.current}export{c as a,s as i,f as u};
+//# sourceMappingURL=index-BYrW2Tah.js.map

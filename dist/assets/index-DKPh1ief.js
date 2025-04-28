@@ -1,2 +1,0 @@
-import{a as n}from"./vendor-DXHkIl66.js";var f=function(e){return function(t,u){var r=n.useRef(!1);e(function(){return function(){r.current=!1}},[]),e(function(){if(!r.current)r.current=!0;else return t()},u)}};const a=f(n.useEffect);function c(e){var t=n.useRef(e);return t.current=e,t}var o=function(e){var t=c(e);n.useEffect(function(){return function(){t.current()}},[])};export{o as a,a as b,c as u};
-//# sourceMappingURL=index-DKPh1ief.js.map
