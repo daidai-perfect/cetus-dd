@@ -1,0 +1,2 @@
+import{j as o,H as i,T as m}from"./vendor-BulRdKUe.js";import{I as x,G as c}from"./index-DQXcYZM3.js";const u=({text:a,xlinkHref:p,svgFill:s="text_paragraph",onClick:t,svgSize:r="20px",svgMl:n="0px"})=>o.jsxs(i,{w:"100%",cursor:"pointer",bg:"menu_item_bg",borderRadius:"8px",padding:"11px",_hover:{svg:{fill:"primary"},p:{color:"primary"}},onClick:e=>{c(e),t()},children:[p&&o.jsx(x,{svgFill:s,xlinkHref:p,svgHover:"primary",svgW:r,svgH:r,minW:r,minH:r,ml:n}),o.jsx(m,{fontSize:"13px",children:a})]});export{u as I};
+//# sourceMappingURL=IconText-Dv6MxevE.js.map
