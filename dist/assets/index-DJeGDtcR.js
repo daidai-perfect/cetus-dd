@@ -1,0 +1,2 @@
+import{d as c,Q as u,C as p}from"./index-BnmCMmyx.js";import"./vendor-BulRdKUe.js";const i=r=>`${c(r).mul(100).toString()}%`,l=(r,s)=>r?r&&!s?!!((r==null?void 0:r.is_verified)===void 0?r!=null&&r.is_trusted:r!=null&&r.is_verified):!!(s!=null&&s.find(a=>{var d,f;return((d=u(a==null?void 0:a.coin_type))==null?void 0:d.full_address)===((f=u((r==null?void 0:r.coin_type)||""))==null?void 0:f.full_address)})):!1,m=(r,s)=>c(r).gt(0)?`${p(r)} ${s}`:"";export{m as f,i as g,l as i};
+//# sourceMappingURL=index-DJeGDtcR.js.map
