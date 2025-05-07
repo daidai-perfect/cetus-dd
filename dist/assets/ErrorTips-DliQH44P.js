@@ -1,7 +1,0 @@
-<<<<<<<< HEAD:dist/assets/ErrorTips-DtkspbtX.js
-import{j as o,H as c,T as l}from"./vendor-BulRdKUe.js";import{I as m}from"./index-CE2038XS.js";function y({tips:i,type:r="error",isShowIcon:e=!0,xlinkHref:a="#icon-icon-warning",tipsFontSize:n="14px",tipsLineHeight:p="20px",svgW:t="16px",svgH:s="16px",...x}){return o.jsxs(c,{align:"center",w:"100%",bg:r=="error"?"primary_red_opacity.10":"primary_yellow_opacity.10",p:"12px",borderRadius:"12px",...x,children:[e&&o.jsx(m,{svgW:t,svgH:s,variant:r,xlinkHref:a,cursor:"text"}),o.jsx(l,{fontSize:n,color:r=="error"?"primary_red":"primary_yellow",lineHeight:p,children:i})]})}export{y as E};
-//# sourceMappingURL=ErrorTips-DtkspbtX.js.map
-========
-import{j as o,H as c,T as l}from"./vendor-BulRdKUe.js";import{I as m}from"./index-BnmCMmyx.js";function y({tips:i,type:r="error",isShowIcon:e=!0,xlinkHref:a="#icon-icon-warning",tipsFontSize:n="14px",tipsLineHeight:p="20px",svgW:t="16px",svgH:s="16px",...x}){return o.jsxs(c,{align:"center",w:"100%",bg:r=="error"?"primary_red_opacity.10":"primary_yellow_opacity.10",p:"12px",borderRadius:"12px",...x,children:[e&&o.jsx(m,{svgW:t,svgH:s,variant:r,xlinkHref:a,cursor:"text"}),o.jsx(l,{fontSize:n,color:r=="error"?"primary_red":"primary_yellow",lineHeight:p,children:i})]})}export{y as E};
-//# sourceMappingURL=ErrorTips-DliQH44P.js.map
->>>>>>>> 48e3e63a7d52715810f0754e6a7d258ba01f9a12:dist/assets/ErrorTips-DliQH44P.js

@@ -1,7 +1,0 @@
-<<<<<<<< HEAD:dist/assets/BackButton-BZBisMg2.js
-import{ab as i,j as e,F as s,T as a}from"./vendor-BulRdKUe.js";import{I as c}from"./index-CE2038XS.js";function d({text:o,onClick:r,...n}){const t=i();return e.jsxs(s,{w:"73px",h:"32px",align:"center",justifyContent:"center",bg:"bg_secondary",borderRadius:"8px",border:"1px solid",borderColor:"border",cursor:"pointer",fontWeight:"500",onClick:()=>{r?r():t(-1)},sx:{_hover:{p:{color:"text_caption"},svg:{fill:"text_caption"}}},...n,children:[o!=="Back to DEX"&&e.jsx(c,{xlinkHref:"#icon-icon_descending_nor",fontSize:"16px",transform:"rotate(90deg)"}),e.jsx(a,{lineHeight:"1",children:o||"Back"})]})}export{d as B};
-//# sourceMappingURL=BackButton-BZBisMg2.js.map
-========
-import{ab as i,j as e,F as s,T as a}from"./vendor-BulRdKUe.js";import{I as c}from"./index-BnmCMmyx.js";function d({text:o,onClick:r,...n}){const t=i();return e.jsxs(s,{w:"73px",h:"32px",align:"center",justifyContent:"center",bg:"bg_secondary",borderRadius:"8px",border:"1px solid",borderColor:"border",cursor:"pointer",fontWeight:"500",onClick:()=>{r?r():t(-1)},sx:{_hover:{p:{color:"text_caption"},svg:{fill:"text_caption"}}},...n,children:[o!=="Back to DEX"&&e.jsx(c,{xlinkHref:"#icon-icon_descending_nor",fontSize:"16px",transform:"rotate(90deg)"}),e.jsx(a,{lineHeight:"1",children:o||"Back"})]})}export{d as B};
-//# sourceMappingURL=BackButton-CECzQEd-.js.map
->>>>>>>> 48e3e63a7d52715810f0754e6a7d258ba01f9a12:dist/assets/BackButton-CECzQEd-.js

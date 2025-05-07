@@ -1,7 +1,0 @@
-<<<<<<<< HEAD:dist/assets/useTokenBalance-C8D__ujF.js
-import{bI as m,j as u,Q as i,M as f,v as p,p as d}from"./index-CE2038XS.js";import{a as B}from"./vendor-BulRdKUe.js";import{u as b}from"./useAccountBalance-CkzRtCV9.js";function x(a){const{tokenBalanceObj:n}=m(),{currentAccount:e}=u(),{fetchCoinBalance:c}=b(),r=t=>{if(t){const o=n[i(t.coin_type).full_address];if(o){const l=o.totalBalance,s=f(l,t.decimals).toString();return{balance:o.totalBalance,balanceFormat:s,balanceDisplay:p(s,void 0,void 0,d.ROUND_DOWN).toString()}}return}};return{balanceInfo:B.useMemo(()=>r(a),[a==null?void 0:a.coin_type,n,e==null?void 0:e.address]),getBalanceInfoFromCache:r,fetchCoinBalance:c}}export{x as u};
-//# sourceMappingURL=useTokenBalance-C8D__ujF.js.map
-========
-import{bI as m,j as u,Q as i,M as f,v as p,p as d}from"./index-BnmCMmyx.js";import{a as B}from"./vendor-BulRdKUe.js";import{u as b}from"./useAccountBalance-rsIdIWdA.js";function x(a){const{tokenBalanceObj:n}=m(),{currentAccount:e}=u(),{fetchCoinBalance:c}=b(),r=t=>{if(t){const o=n[i(t.coin_type).full_address];if(o){const l=o.totalBalance,s=f(l,t.decimals).toString();return{balance:o.totalBalance,balanceFormat:s,balanceDisplay:p(s,void 0,void 0,d.ROUND_DOWN).toString()}}return}};return{balanceInfo:B.useMemo(()=>r(a),[a==null?void 0:a.coin_type,n,e==null?void 0:e.address]),getBalanceInfoFromCache:r,fetchCoinBalance:c}}export{x as u};
-//# sourceMappingURL=useTokenBalance-CEc7kzw3.js.map
->>>>>>>> 48e3e63a7d52715810f0754e6a7d258ba01f9a12:dist/assets/useTokenBalance-CEc7kzw3.js
