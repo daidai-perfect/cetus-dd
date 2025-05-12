@@ -1,0 +1,7 @@
+<<<<<<< HEAD:dist/assets/Loading-yKVeoG31.js
+import{j as e,F as i,a9 as r}from"./vendor-BFGDaAdA.js";function o({positionStyle:n="fixed",bg:t="background"}){return e.jsx(i,{w:"100%",h:"100%",position:n,left:"0px",top:"0px",zIndex:"99999",alignItems:"center",justifyContent:"center",bg:t,children:e.jsx(r,{size:"xl",color:"primary",thickness:"4px"})})}export{o as L};
+//# sourceMappingURL=Loading-yKVeoG31.js.map
+=======
+import{j as e,F as i,aa as r}from"./vendor-C6OgHlW5.js";function o({positionStyle:n="fixed",bg:t="background"}){return e.jsx(i,{w:"100%",h:"100%",position:n,left:"0px",top:"0px",zIndex:"99999",alignItems:"center",justifyContent:"center",bg:t,children:e.jsx(r,{size:"xl",color:"primary",thickness:"4px"})})}export{o as L};
+//# sourceMappingURL=Loading-Cr8zZo2a.js.map
+>>>>>>> b34a3b536fad2325000a9d474052d22a0b02cdf0:dist/assets/Loading-Cr8zZo2a.js
