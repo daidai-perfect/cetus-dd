@@ -1,7 +1,2 @@
-<<<<<<< HEAD:dist/assets/BackButton-Ds-74tfb.js
 import{aa as i,j as e,F as s,T as a}from"./vendor-BFGDaAdA.js";import{I as c}from"./index-QNvgVKlA.js";function d({text:o,onClick:r,...n}){const t=i();return e.jsxs(s,{w:"73px",h:"32px",align:"center",justifyContent:"center",bg:"bg_secondary",borderRadius:"8px",border:"1px solid",borderColor:"border",cursor:"pointer",fontWeight:"500",onClick:()=>{r?r():t(-1)},sx:{_hover:{p:{color:"text_caption"},svg:{fill:"text_caption"}}},...n,children:[o!=="Back to DEX"&&e.jsx(c,{xlinkHref:"#icon-icon_descending_nor",fontSize:"16px",transform:"rotate(90deg)"}),e.jsx(a,{lineHeight:"1",children:o||"Back"})]})}export{d as B};
 //# sourceMappingURL=BackButton-Ds-74tfb.js.map
-=======
-import{ab as i,j as e,F as s,T as a}from"./vendor-C6OgHlW5.js";import{I as c}from"./index-BcaB9c-7.js";function d({text:o,onClick:r,...n}){const t=i();return e.jsxs(s,{w:"73px",h:"32px",align:"center",justifyContent:"center",bg:"bg_secondary",borderRadius:"8px",border:"1px solid",borderColor:"border",cursor:"pointer",fontWeight:"500",onClick:()=>{r?r():t(-1)},sx:{_hover:{p:{color:"text_caption"},svg:{fill:"text_caption"}}},...n,children:[o!=="Back to DEX"&&e.jsx(c,{xlinkHref:"#icon-icon_descending_nor",fontSize:"16px",transform:"rotate(90deg)"}),e.jsx(a,{lineHeight:"1",children:o||"Back"})]})}export{d as B};
-//# sourceMappingURL=BackButton-BImeroZf.js.map
->>>>>>> b34a3b536fad2325000a9d474052d22a0b02cdf0:dist/assets/BackButton-BImeroZf.js

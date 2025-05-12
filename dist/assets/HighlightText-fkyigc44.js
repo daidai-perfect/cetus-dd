@@ -1,7 +1,2 @@
-<<<<<<< HEAD:dist/assets/HighlightText-fkyigc44.js
 import{j as i,T as t}from"./vendor-BFGDaAdA.js";function u(l){const{text:c,keywords:n,onKeywordClick:o,text_highlight_color:h="text_highlight",text_size:r="12px",text_color:x="primary_gray"}=l,p=new RegExp(`(${n.join("|")})`,"gi"),a=c.split(p);return i.jsx(t,{display:"inline",whiteSpace:"normal",as:"span",textAlign:"start",children:a.map((e,s)=>n.includes(e)?i.jsx(t,{lineHeight:"20px",fontSize:r,color:h,cursor:"pointer",onClick:()=>o(e),whiteSpace:"inherit",as:"span",children:e},s):i.jsx(t,{lineHeight:"20px",fontSize:r,color:x,cursor:"pointer",onClick:()=>o(e),whiteSpace:"inherit",as:"span",children:e},s))})}export{u as H};
 //# sourceMappingURL=HighlightText-fkyigc44.js.map
-=======
-import{j as i,T as t}from"./vendor-C6OgHlW5.js";function u(l){const{text:c,keywords:n,onKeywordClick:o,text_highlight_color:h="text_highlight",text_size:r="12px",text_color:x="primary_gray"}=l,p=new RegExp(`(${n.join("|")})`,"gi"),a=c.split(p);return i.jsx(t,{display:"inline",whiteSpace:"normal",as:"span",textAlign:"start",children:a.map((e,s)=>n.includes(e)?i.jsx(t,{lineHeight:"20px",fontSize:r,color:h,cursor:"pointer",onClick:()=>o(e),whiteSpace:"inherit",as:"span",children:e},s):i.jsx(t,{lineHeight:"20px",fontSize:r,color:x,cursor:"pointer",onClick:()=>o(e),whiteSpace:"inherit",as:"span",children:e},s))})}export{u as H};
-//# sourceMappingURL=HighlightText-DidJZTw1.js.map
->>>>>>> b34a3b536fad2325000a9d474052d22a0b02cdf0:dist/assets/HighlightText-DidJZTw1.js
