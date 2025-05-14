@@ -1,7 +1,2 @@
-<<<<<<< HEAD:dist/assets/TotalAmount-CKMFGbb5.js
 import{j as r}from"./vendor-BFGDaAdA.js";import{b2 as f,d as s}from"./index-ChSVVHaJ.js";import{H as x}from"./HTextLabelBox-B-nKLdqZ.js";function b({loading:e=!1,labelStyle:a={},valueStyle:u={},skeletonStyle:l={},...i}){const m=n=>{if("totalAmount"in n){const{totalAmount:t}=n;return t&&+t?f(t):"--"}if("amountA"in n&&"amountB"in n){const{amountA:t,amountB:o}=n;return t=="--"||o=="--"?"--":s(t||"0").plus(o||"0").toString()}return"--"};return r.jsx(x,{isLoading:e,label:"Total Amount",value:m(i),labelStyle:{fontSize:"14px",...a},valueStyle:{fontSize:"14px",...u},skeletonStyle:{valueW:"128px",...l}})}export{b as T};
 //# sourceMappingURL=TotalAmount-CKMFGbb5.js.map
-=======
-import{j as r}from"./vendor-BFGDaAdA.js";import{b2 as f,d as s}from"./index-Fe2tZAmL.js";import{H as x}from"./HTextLabelBox-a2CUIzAy.js";function b({loading:e=!1,labelStyle:a={},valueStyle:u={},skeletonStyle:l={},...i}){const m=n=>{if("totalAmount"in n){const{totalAmount:t}=n;return t&&+t?f(t):"--"}if("amountA"in n&&"amountB"in n){const{amountA:t,amountB:o}=n;return t=="--"||o=="--"?"--":s(t||"0").plus(o||"0").toString()}return"--"};return r.jsx(x,{isLoading:e,label:"Total Amount",value:m(i),labelStyle:{fontSize:"14px",...a},valueStyle:{fontSize:"14px",...u},skeletonStyle:{valueW:"128px",...l}})}export{b as T};
-//# sourceMappingURL=TotalAmount-DzlcpBCP.js.map
->>>>>>> 618a0176653140f5c93e017a1cc36f7fe995b39f:dist/assets/TotalAmount-DzlcpBCP.js

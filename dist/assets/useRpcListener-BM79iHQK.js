@@ -1,7 +1,2 @@
-<<<<<<< HEAD:dist/assets/useRpcListener-BM79iHQK.js
 import{aW as f,aX as r}from"./index-ChSVVHaJ.js";import{a as n}from"./vendor-BFGDaAdA.js";import{u as o}from"./usePreviousValue-DoVr3Y3V.js";function m({onRpcChange:a}){const{isInitLoading:i}=f(),{currentNode:s}=r(),e=o(s),t=n.useRef(!1);n.useEffect(()=>{e&&s&&e.link!==(s==null?void 0:s.link)&&(t.current=!0)},[e==null?void 0:e.link,s==null?void 0:s.link,i]),n.useEffect(()=>{t.current&&!i&&(a(),t.current=!1)},[i,t.current])}export{m as u};
 //# sourceMappingURL=useRpcListener-BM79iHQK.js.map
-=======
-import{aW as f,aX as r}from"./index-Fe2tZAmL.js";import{a as n}from"./vendor-BFGDaAdA.js";import{u as o}from"./usePreviousValue-DoVr3Y3V.js";function m({onRpcChange:a}){const{isInitLoading:i}=f(),{currentNode:s}=r(),e=o(s),t=n.useRef(!1);n.useEffect(()=>{e&&s&&e.link!==(s==null?void 0:s.link)&&(t.current=!0)},[e==null?void 0:e.link,s==null?void 0:s.link,i]),n.useEffect(()=>{t.current&&!i&&(a(),t.current=!1)},[i,t.current])}export{m as u};
-//# sourceMappingURL=useRpcListener-yAZp9Byp.js.map
->>>>>>> 618a0176653140f5c93e017a1cc36f7fe995b39f:dist/assets/useRpcListener-yAZp9Byp.js
