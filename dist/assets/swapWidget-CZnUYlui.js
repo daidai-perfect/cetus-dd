@@ -1,7 +1,0 @@
-<<<<<<< HEAD:dist/assets/swapWidget-DKfkwdaw.js
-import{R as r,v as n}from"./index-Dusgv24d.js";const m=(t,e)=>({byAmountIn:!0,findRouterLoading:!1,fromAmount:"",toAmount:"",fromCoin:n.clmm_swap.from_coin,toCoin:n.clmm_swap.to_coin,routerData:void 0,setFromCoin:o=>{t(()=>({fromCoin:o}))},setToCoin:o=>{t(()=>({toCoin:o}))},setFromAmount:o=>{t(()=>({fromAmount:o}))},setToAmount:o=>{t(()=>({toAmount:o}))},setRouterData:o=>{t(()=>({routerData:o}))},setFindRouterLoading:o=>{t(()=>({findRouterLoading:o}))},setByAmountIn:o=>{t(()=>({byAmountIn:o}))}}),a=r(m);export{a as u};
-//# sourceMappingURL=swapWidget-DKfkwdaw.js.map
-=======
-import{Q as r,v as n}from"./index-CJa1Q5Eu.js";const m=(t,e)=>({byAmountIn:!0,findRouterLoading:!1,fromAmount:"",toAmount:"",fromCoin:n.clmm_swap.from_coin,toCoin:n.clmm_swap.to_coin,routerData:void 0,setFromCoin:o=>{t(()=>({fromCoin:o}))},setToCoin:o=>{t(()=>({toCoin:o}))},setFromAmount:o=>{t(()=>({fromAmount:o}))},setToAmount:o=>{t(()=>({toAmount:o}))},setRouterData:o=>{t(()=>({routerData:o}))},setFindRouterLoading:o=>{t(()=>({findRouterLoading:o}))},setByAmountIn:o=>{t(()=>({byAmountIn:o}))}}),a=r(m);export{a as u};
-//# sourceMappingURL=swapWidget-CZnUYlui.js.map
->>>>>>> 0c24c70bb8f4b262d669a2d6c2f695cdc5861cf4:dist/assets/swapWidget-CZnUYlui.js

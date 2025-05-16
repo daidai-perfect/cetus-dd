@@ -1,7 +1,0 @@
-<<<<<<< HEAD:dist/assets/IconBg-i6MWeSSA.js
-import{j as r,F as x}from"./vendor-BFGDaAdA.js";import{I as p}from"./index-Dusgv24d.js";function d(o){const{svgHover:e="text_caption",svgFill:t="text_paragraph",xlinkHref:n,onClick:s,variant:i="solid",...a}=o;return r.jsx(x,{bg:"bg_secondary",borderRadius:"12px",w:"40px",h:"40px",alignItems:"center",justifyContent:"center",border:"1px solid",borderColor:"border",cursor:"pointer",...a,onClick:s,children:r.jsx(p,{svgHover:e,svgFill:t,xlinkHref:n,variant:i})})}export{d as I};
-//# sourceMappingURL=IconBg-i6MWeSSA.js.map
-=======
-import{j as r,F as x}from"./vendor-BFGDaAdA.js";import{I as p}from"./index-CJa1Q5Eu.js";function d(o){const{svgHover:e="text_caption",svgFill:t="text_paragraph",xlinkHref:n,onClick:s,variant:i="solid",...a}=o;return r.jsx(x,{bg:"bg_secondary",borderRadius:"12px",w:"40px",h:"40px",alignItems:"center",justifyContent:"center",border:"1px solid",borderColor:"border",cursor:"pointer",...a,onClick:s,children:r.jsx(p,{svgHover:e,svgFill:t,xlinkHref:n,variant:i})})}export{d as I};
-//# sourceMappingURL=IconBg-BmTNgiuq.js.map
->>>>>>> 0c24c70bb8f4b262d669a2d6c2f695cdc5861cf4:dist/assets/IconBg-BmTNgiuq.js
