@@ -1,2 +1,0 @@
-import{l as n}from"./index-YuqJEnbb.js";const r=(t,u)=>({byAmountIn:!0,findRouterLoading:!1,fromAmount:"",toAmount:"",fromCoin:void 0,toCoin:void 0,routerData:void 0,setFromCoin:o=>{t(()=>({fromCoin:o}))},setToCoin:o=>{t(()=>({toCoin:o}))},setFromAmount:o=>{t(()=>({fromAmount:o}))},setToAmount:o=>{t(()=>({toAmount:o}))},setRouterData:o=>{t(()=>({routerData:o}))},setFindRouterLoading:o=>{t(()=>({findRouterLoading:o}))},setByAmountIn:o=>{t(()=>({byAmountIn:o}))}}),i=n(r);export{i as u};
-//# sourceMappingURL=swap-DsrPEEh6.js.map
