@@ -1,0 +1,2 @@
+import{a as o}from"./useSwapHelper-Djs3EZyS.js";import{R as i,aV as p}from"./index-Bw_F6Vaz.js";const S=(r,e)=>({providersSwitchStates:{[o.CETUS]:!0},setProvidersSwitchStates:t=>{const s=e().providersSwitchStates;r(()=>({providersSwitchStates:{...s,...t}}))},supportOrderSplit:!0,setSupportOrderSplit:t=>{r(()=>({supportOrderSplit:t}))}}),d=i(p(S,{name:"useSwapConfigStore"}));export{d as u};
+//# sourceMappingURL=swapConfig-B7AmsL6m.js.map
