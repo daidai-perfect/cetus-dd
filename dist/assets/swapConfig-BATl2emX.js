@@ -1,0 +1,2 @@
+import{a as o}from"./useSwapHelper-wEjMoVsV.js";import{R as i,aV as p}from"./index-zQ-c8tzj.js";const S=(r,e)=>({providersSwitchStates:{[o.CETUS]:!0},setProvidersSwitchStates:t=>{const s=e().providersSwitchStates;r(()=>({providersSwitchStates:{...s,...t}}))},supportOrderSplit:!0,setSupportOrderSplit:t=>{r(()=>({supportOrderSplit:t}))}}),d=i(p(S,{name:"useSwapConfigStore"}));export{d as u};
+//# sourceMappingURL=swapConfig-BATl2emX.js.map
