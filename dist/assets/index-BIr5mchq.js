@@ -1,2 +1,0 @@
-import{d as c,v as u,F as _}from"./index-LHh4Mv6M.js";const l=r=>`${c(r).mul(100).toString()}%`,g=(r,s)=>r?r&&!s?!!((r==null?void 0:r.is_verified)===void 0?r!=null&&r.is_trusted:r!=null&&r.is_verified):!!(s!=null&&s.find(d=>{var a,f;return((a=u(d==null?void 0:d.coin_type))==null?void 0:a.full_address)===((f=u((r==null?void 0:r.coin_type)||""))==null?void 0:f.full_address)})):!1,p=(r,s)=>c(r).gt(0)?`${_(r)} ${s}`:"";export{p as f,l as g,g as i};
-//# sourceMappingURL=index-BIr5mchq.js.map

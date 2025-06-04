@@ -1,0 +1,2 @@
+import{u as o}from"./index-DDKYf1X5.js";import{a as i}from"./vendor-g49_ygo3.js";function u(){const[t,n]=i.useState({w:document.documentElement.clientWidth,h:document.documentElement.clientHeight}),e=()=>{n({w:document.documentElement.clientWidth,h:document.documentElement.clientHeight})};return o(()=>(window.addEventListener("resize",e),()=>{window.removeEventListener("resize",e)}),[],{wait:500}),{size:t}}export{u};
+//# sourceMappingURL=useDocumentSize-X4ZRMU5_.js.map
