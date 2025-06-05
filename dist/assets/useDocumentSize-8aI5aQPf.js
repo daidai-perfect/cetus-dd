@@ -1,0 +1,2 @@
+import{u as o}from"./index-D-f3rLKc.js";import{a as i}from"./vendor-D6laCrlR.js";function u(){const[t,n]=i.useState({w:document.documentElement.clientWidth,h:document.documentElement.clientHeight}),e=()=>{n({w:document.documentElement.clientWidth,h:document.documentElement.clientHeight})};return o(()=>(window.addEventListener("resize",e),()=>{window.removeEventListener("resize",e)}),[],{wait:500}),{size:t}}export{u};
+//# sourceMappingURL=useDocumentSize-8aI5aQPf.js.map
