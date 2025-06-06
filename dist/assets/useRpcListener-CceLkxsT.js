@@ -1,2 +1,0 @@
-import{aW as f,aX as r}from"./index-DthP23cL.js";import{a as n}from"./vendor-CXqmq-4p.js";import{u as o}from"./usePreviousValue-CIa3T9vG.js";function m({onRpcChange:a}){const{isInitLoading:i}=f(),{currentNode:s}=r(),e=o(s),t=n.useRef(!1);n.useEffect(()=>{e&&s&&e.link!==(s==null?void 0:s.link)&&(t.current=!0)},[e==null?void 0:e.link,s==null?void 0:s.link,i]),n.useEffect(()=>{t.current&&!i&&(a(),t.current=!1)},[i,t.current])}export{m as u};
-//# sourceMappingURL=useRpcListener-CceLkxsT.js.map
