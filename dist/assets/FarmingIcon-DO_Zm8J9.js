@@ -1,2 +1,0 @@
-import{aD as t,j as a,aF as o,aH as c,a_ as m,aG as p}from"./vendor-CJYf2hYp.js";import{a as x,C as l,E as d}from"./index-aAjTJV6-.js";const g=({tooltip:s,...e})=>{const n=t(),{isApp:i}=x();return a.jsx(o,{w:"20px",h:"20px",onClick:r=>{d(r),i||n("/farms")},...e,children:a.jsx(l,{placement:"top",tooltip:s||a.jsx(p,{fontSize:"12px",children:"Farm rewards available"}),children:a.jsx(c,{children:a.jsx(m,{w:"100%",h:"100%",minW:"100%",src:"/images/icon_farms.png"})})})})};export{g as F};
-//# sourceMappingURL=FarmingIcon-DO_Zm8J9.js.map

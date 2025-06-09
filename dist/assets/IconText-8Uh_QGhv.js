@@ -1,2 +1,0 @@
-import{j as a,aF as i,aG as m}from"./vendor-CJYf2hYp.js";import{I as x,E as c}from"./index-aAjTJV6-.js";const u=({text:p,xlinkHref:o,svgFill:s="text_paragraph",onClick:t,svgSize:r="20px",svgMl:n="0px"})=>a.jsxs(i,{w:"100%",cursor:"pointer",bg:"menu_item_bg",borderRadius:"8px",padding:"11px",_hover:{svg:{fill:"primary"},p:{color:"primary"}},onClick:e=>{c(e),t()},children:[o&&a.jsx(x,{svgFill:s,xlinkHref:o,svgHover:"primary",svgW:r,svgH:r,minW:r,minH:r,ml:n}),a.jsx(m,{fontSize:"13px",children:p})]});export{u as I};
-//# sourceMappingURL=IconText-8Uh_QGhv.js.map

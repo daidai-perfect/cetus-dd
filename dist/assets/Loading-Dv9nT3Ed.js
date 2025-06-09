@@ -1,2 +1,0 @@
-import{j as e}from"./vendor-CJYf2hYp.js";import{aq as r,az as i}from"./index-aAjTJV6-.js";function x({positionStyle:n="fixed",bg:t="background"}){return e.jsx(r,{w:"100%",h:"100%",position:n,left:"0px",top:"0px",zIndex:"99999",alignItems:"center",justifyContent:"center",bg:t,children:e.jsx(i,{size:"xl",color:"primary",thickness:"4px"})})}export{x as L};
-//# sourceMappingURL=Loading-Dv9nT3Ed.js.map
