@@ -1,2 +1,0 @@
-import{o as g,s as t,$ as d}from"./index-D3ADsl29.js";import{a as D}from"./useGetPythTokenPrice-mlEvO0G_.js";function $(s,e,a,l,u){const{getTokenAmountValueByPyth:i}=D(),{getTokenAmountValue:c}=g(),o=u=="haedal"?i(a,s):c(a,s),n=u=="haedal"?i(l,e):c(l,e),r=t(o,"$"),m=t(n,"$"),h=d(o).plus(n||0).toString(),V=t(h,"$");return{holdCoinAValue:o,holdCoinBValue:n,holdCoinAValueDisplay:r,holdCoinBValueDisplay:m,holdingAmount:h,holdingAmountDisplay:V}}export{$ as u};
-//# sourceMappingURL=useVaultsHoldings-6unUmKwW.js.map
