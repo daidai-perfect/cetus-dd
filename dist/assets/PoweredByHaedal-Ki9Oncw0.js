@@ -1,0 +1,2 @@
+import{j as a,H as n,T as x,I as c}from"./vendor-URDu4IbP.js";function l(t){const{color:o,imgW:s,imgH:r,fontSize:i,mt:g="-4px",category:e}=t;return a.jsxs(n,{w:"100%",mt:g,lineHeight:"20px",gap:"6px",children:[a.jsxs(x,{fontSize:i||"12px",color:o||(e=="cetus"?"primary_gray":"text_haedal"),whiteSpace:"nowrap",children:["Powered by ",e==="cetus"?"Cetus":"Haedal"]}),a.jsx(c,{decoding:"async",src:e==="haedal"?"/images/haedal-logo@2x.png":"/images/img-logo@2x.png",w:s||"auto",h:r||"12px"})]})}export{l as P};
+//# sourceMappingURL=PoweredByHaedal-Ki9Oncw0.js.map
