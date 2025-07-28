@@ -1,0 +1,9 @@
+import{b as o}from"./core-WZAokYcq.js";import"./cross-CANecTZL.js";import"./vendor-Cn1q3jLV.js";import"./index-BJgzpa-x.js";import"./CrossSwap-xgIXeUHD.js";import"./PriceImpact-DeKoKsH9.js";import"./CurrentPrice-CqN-poNp.js";import"./MarketSource-BaczLGPf.js";import"./useSwapHelper-3UGZ0UQs.js";import"./swapConfig-B_xZM8Pc.js";import"./useToken-N3S5SujF.js";import"./en_US-RFN65H63-Cm9Z8i9a.js";import"./useGetPoolList-B3bmnZxH.js";import"./utils-C7gk-oJl.js";import"./useWrapPoolData-BXqGNURc.js";import"./sui-priority-Dh0p1fZ4.js";import"./usePreviousValue-CgVBQel2.js";import"./HighlightText-CFX_pi-i.js";import"./useSigner-CwvWqenu.js";import"./useTransactionModal-uIvrWyOc.js";import"./v4-C6aID195.js";import"./ErrorTips-C_xubtbb.js";import"./CopyButton-Z0hbHR0i.js";import"./AddressCopyLink-Bulg6TBr.js";import"./HTextLabelBox-C6RgNgDQ.js";import"./NoData-GY-DZNIY.js";import"./index-w_8jMehW.js";import"./Loading-DqfwsYbA.js";import"./Slippage-BphCqt6r.js";import"./index-CYmia1UI.js";import"./TooltipIcon-CHdh2g0v.js";import"./useTokenBalance-Cx07szaO.js";import"./useAccountBalance-84_TjHXT.js";import"./FreshProgressV2-BIE5g2hd.js";import"./index.es-0Tf9ah9W.js";const F=o`<svg fill="none" viewBox="0 0 20 20">
+  <path
+    fill="currentColor"
+    fill-rule="evenodd"
+    d="M0 5.5c0-1.8 1.46-3.25 3.25-3.25H14.5c1.8 0 3.25 1.46 3.25 3.25v.28A3.25 3.25 0 0 1 20 8.88v2.24c0 1.45-.94 2.68-2.25 3.1v.28c0 1.8-1.46 3.25-3.25 3.25H3.25A3.25 3.25 0 0 1 0 14.5v-9Zm15.75 8.88h-2.38a4.38 4.38 0 0 1 0-8.76h2.38V5.5c0-.69-.56-1.25-1.25-1.25H3.25C2.56 4.25 2 4.81 2 5.5v9c0 .69.56 1.25 1.25 1.25H14.5c.69 0 1.25-.56 1.25-1.25v-.13Zm-2.38-6.76a2.37 2.37 0 1 0 0 4.75h3.38c.69 0 1.25-.55 1.25-1.24V8.87c0-.69-.56-1.24-1.25-1.24h-3.38Z"
+    clip-rule="evenodd"
+  />
+</svg>`;export{F as walletSvg};
+//# sourceMappingURL=wallet-o6BZTKq_.js.map

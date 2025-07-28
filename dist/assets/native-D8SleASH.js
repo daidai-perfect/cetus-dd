@@ -1,2 +1,0 @@
-import{aS as e}from"./index-B-S0gtVB.js";import"./vendor-Cn1q3jLV.js";import"./cross-CF5wH_R-.js";function t(){if(typeof WebSocket<"u")return WebSocket;if(typeof e.WebSocket<"u")return e.WebSocket;if(typeof window.WebSocket<"u")return window.WebSocket;if(typeof self.WebSocket<"u")return self.WebSocket;throw new Error("`WebSocket` is not supported in this environment")}const r=t();export{r as WebSocket};
-//# sourceMappingURL=native-D8SleASH.js.map

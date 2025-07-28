@@ -1,0 +1,2 @@
+import{a7 as f,a8 as a}from"./index-BJgzpa-x.js";import{r as n}from"./vendor-Cn1q3jLV.js";import{u as o}from"./usePreviousValue-CgVBQel2.js";function m({onRpcChange:r}){const{isInitLoading:i}=f(),{currentNode:s}=a(),e=o(s),t=n.useRef(!1);n.useEffect(()=>{e&&s&&e.link!==(s==null?void 0:s.link)&&(t.current=!0)},[e==null?void 0:e.link,s==null?void 0:s.link,i]),n.useEffect(()=>{t.current&&!i&&(r(),t.current=!1)},[i,t.current])}export{m as u};
+//# sourceMappingURL=useRpcListener-ByA0QXHl.js.map
