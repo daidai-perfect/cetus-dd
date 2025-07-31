@@ -1,2 +1,0 @@
-import{r as e}from"./vendor-oXK2aBe4.js";function f({interval:t,callback:u}){const n=e.useRef(),r=e.useRef(null);e.useEffect(()=>{n.current=u},[u]);const c=e.useCallback(()=>{r.current&&clearInterval(r.current),t>0&&(r.current=setInterval(()=>{n.current&&n.current(Date.now())},t))},[t]),s=e.useCallback(()=>{r.current&&(clearInterval(r.current),r.current=null)},[]);return e.useEffect(()=>(c(),()=>s()),[]),{startTimer:c,stopTimer:s}}export{f as u};
-//# sourceMappingURL=useInterval-K3oxmtP3.js.map
