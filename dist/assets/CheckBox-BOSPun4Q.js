@@ -1,2 +1,0 @@
-import{j as r,F as x}from"./vendor-DVv19BHs.js";import{I as h}from"./index-9oR_vxC9.js";function a(o){const{checked:e,width:i,height:n,borderRadius:t,onClick:c,cursor:s="pointer",borderColor:d="border"}=o;return r.jsx(x,{align:"center",justifyContent:"center",background:"checked_bg",border:"1px solid",borderColor:d,cursor:s,width:i||"20px",height:n||"20px",borderRadius:t||"4px",onClick:c,sx:{svg:{fill:"primary !important"}},children:e?r.jsx(h,{xlinkHref:"#icon-icon_check"}):null})}export{a as C};
-//# sourceMappingURL=CheckBox-BOSPun4Q.js.map
