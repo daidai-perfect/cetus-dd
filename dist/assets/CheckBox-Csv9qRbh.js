@@ -1,2 +1,0 @@
-import{j as r,F as x}from"./vendor-iYGGTsEW.js";import{I as h}from"./index-DQOjOBiN.js";function a(o){const{checked:e,width:i,height:n,borderRadius:t,onClick:c,cursor:s="pointer",borderColor:d="border"}=o;return r.jsx(x,{align:"center",justifyContent:"center",background:"checked_bg",border:"1px solid",borderColor:d,cursor:s,width:i||"20px",height:n||"20px",borderRadius:t||"4px",onClick:c,sx:{svg:{fill:"primary !important"}},children:e?r.jsx(h,{xlinkHref:"#icon-icon_check"}):null})}export{a as C};
-//# sourceMappingURL=CheckBox-Csv9qRbh.js.map
