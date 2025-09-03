@@ -2,13 +2,88 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.ico" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>MESOLABS</title>
-    <script type="module" crossorigin src="/assets/index-WGlZEEsb.js"></script>
-    <link rel="stylesheet" crossorigin href="/assets/index-Bt_CRXbi.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <meta name="description" content="Swap, earn, and build on the pioneer MOVE-based liquidity protocol." />
+    <link rel="icon" type="image/png" href="/favicon.ico?t=202509031709" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet" />
+    <title>Cetus - Empower liquidity. Built for DeFi.</title>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-GF4BQNDDKR"></script>
+    <script>
+      window.dataLayer = window.dataLayer || []
+      function gtag() {
+        dataLayer.push(arguments)
+      }
+      gtag('js', new Date())
+      gtag('config', 'G-GF4BQNDDKR')
+    </script>
+    <style>
+      html {
+        background-color: #161616;
+      }
+      body {
+        background: #161616;
+        margin: 0 !important;
+        overflow-y: hidden;
+      }
+
+      img,
+      p,
+      button,
+      a,
+      div,
+      span,
+      i,
+      ul,
+      li,
+      svg,
+      canvas {
+        outline: none;
+        -webkit-tap-highlight-color: transparent;
+      }
+
+      ::-webkit-scrollbar {
+        width: 4px;
+        height: 4px;
+      }
+      ::-webkit-scrollbar-track {
+        background: transparent;
+      }
+      ::-webkit-scrollbar-thumb {
+        background: #585a5c;
+        border-radius: 4px;
+      }
+      ::-webkit-scrollbar-corner {
+        background: transparent !important;
+      }
+      ::selection {
+        background: #21303f !important;
+      }
+    </style>
+    <script type="module" crossorigin src="/assets/index-Dt48GDWk.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/vendor-Ctiko1yE.js">
+    <link rel="modulepreload" crossorigin href="/assets/cross-ungOD_PD.js">
+    <link rel="stylesheet" crossorigin href="/assets/index-Ddtotjur.css">
   </head>
+
   <body>
     <div id="root"></div>
+    <script src="/iconfont.js"></script>
+
+    <script>
+      const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)
+
+      const isOnline = window.location.hostname.includes('cetus.zone')
+
+      if (isMobile && !isOnline) {
+        const script = document.createElement('script')
+        script.src = 'https://unpkg.com/vconsole/dist/vconsole.min.js'
+        script.onload = function () {
+          new window.VConsole()
+        }
+        document.body.appendChild(script)
+      }
+    </script>
   </body>
 </html>
