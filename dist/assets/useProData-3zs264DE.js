@@ -1,2 +1,0 @@
-import{a as d,u as g}from"./CarouselBlock-Bs1Mfvws.js";function D(){const{getCoinDetail:a,getCoinMarketData:r,getCoinBvPrice:o,getCoinAuditCheck:s,getCoinTrades:n,getTopHolders:i,getCoinTransactionBlocks:u}=d(),{currTradeTab:e}=g();return{getCoinRelatedData:(t,c)=>{if(a(t),r(t),o(t),s(t),c)switch(console.log("🚀 ~ getCoinRelatedData ~ currTradeTab:",e),e){case"Trades":n({coinType:t,sender:"",type:void 0,cursor:"",limit:10});return;case"Holders":i(t,1,10);return;case"Transaction Blocks":u(t,"",10);return}}}}export{D as u};
-//# sourceMappingURL=useProData-3zs264DE.js.map
