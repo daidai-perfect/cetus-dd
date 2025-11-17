@@ -1,2 +1,0 @@
-import{j as t,C as n,t as o}from"./vendor-CqEtL6G4.js";function s(){return t.jsx(n,{w:"100%",h:"100%",position:"absolute",left:"0px",top:"0px",children:t.jsx(o,{})})}export{s as C};
-//# sourceMappingURL=ChartLoading-D16d6_Bb.js.map
