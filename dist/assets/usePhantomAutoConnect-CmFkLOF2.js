@@ -1,0 +1,2 @@
+import{aw as r,ax as i,ay as u}from"./index-lVT1DXsr.js";import{r as f}from"./vendor-BNoQVtVQ.js";function C(){const{phantomInstance:e}=r(),{mutate:s}=i(),l=u(),c=()=>{var n,o;const t=JSON.parse(((n=window==null?void 0:window.localStorage)==null?void 0:n.getItem("sui-dapp-kit:wallet-connection-info"))||"{}");if(((o=t==null?void 0:t.state)==null?void 0:o.lastConnectedWalletName)==="Phantom"){const a=l.find(m=>m.name==="Phantom");a&&s({wallet:a})}};f.useEffect(()=>{e&&c()},[e])}export{C as u};
+//# sourceMappingURL=usePhantomAutoConnect-CmFkLOF2.js.map
