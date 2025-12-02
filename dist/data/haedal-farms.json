@@ -1,0 +1,319 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": [
+      {
+          "poolId": "0x16140ced8f6641e56d7455cfb14acba7246b94049c442fb867a4c597d9841981",
+          "type": "V1",
+          "balance": 829861144483,
+          "boost_balance": 0,
+          "stakeCoinType": "0x596c777d6e32420266c1f146aa94b55ec76ac3cd7a3bf54983b19c14bc0b486::lpcoin::LPCOIN",
+          "active": 1,
+          "vaultPool": {
+              "apr": "0.399683216765726",
+              "apy": "0.49102610695574377405656760776961",
+              "fee_rate": 500,
+              "coin_type_a": "0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC",
+              "coin_type_b": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
+              "coinADetail": {
+                  "symbol": "USDC",
+                  "name": "USDC",
+                  "price": "1.00173950",
+                  "decimals": "6",
+                  "logo_url": "https://circle.com/usdc-icon"
+              },
+              "coinBDetail": {
+                  "symbol": "SUI",
+                  "name": "Sui",
+                  "price": "1.65531200",
+                  "decimals": "9",
+                  "logo_url": ""
+              },
+              "show_reverse": true,
+              "id": "0x24bf7840d179ea8b1b0543e496053727c98c0eb3e2c92d3c5b221c241c40125d",
+              "category": "haedal"
+          },
+          "coinDetail": {
+              "symbol": "SUI-USDC Vault LPT",
+              "name": "SUI-USDC Haedal Vault LP Token",
+              "price": "0.14964533",
+              "decimals": "6",
+              "logo_url": "https://node1.irys.xyz/TZD49BnoQJTbSIsGi_qfnzfN0MuCE17hYMeOWaMqpEs"
+          },
+          "rewardConfigs": [
+              {
+                  "bank": "0x0b5890e84702b5694a3f4603f2f191e17b52d9310783d2e50435bdf432195039",
+                  "bankSum": 0,
+                  "rewardCoinType": "0x1571171dc42b38196d45da85bf75e596bbde5708a4e8b706edd077d400121105::haedal::HAEDAL",
+                  "rate": "0",
+                  "curRewardNum": 0,
+                  "apr": 0,
+                  "coinDetail": {
+                      "symbol": "HAEDAL",
+                      "name": "Haedal Protocol",
+                      "price": "0.06350303",
+                      "decimals": "9",
+                      "logo_url": "https://node1.irys.xyz/Rp80fmqZS3qBDnfyxyKEvc65nVdTunjOG3NY8T6AjpI"
+                  },
+                  "start_at": 1750942200,
+                  "isNewPool": true,
+                  "activeBoost": 1
+              },
+              {
+                  "bank": "0x081d8b49a017e2159487267d16a145dc17b48823867d709b09a08d9c3c1fc24a",
+                  "bankSum": 715008000000000,
+                  "rewardCoinType": "0x3a304c7feba2d819ea57c3542d68439ca2c386ba02159c740f7b406e592c62ea::haedal::HAEDAL",
+                  "rate": "57870370",
+                  "curRewardNum": 0,
+                  "apr": 0.15044834510820088,
+                  "coinDetail": {
+                      "symbol": "HAEDAL",
+                      "name": "Haedal",
+                      "price": "0.06350303",
+                      "decimals": "9",
+                      "logo_url": "https://node1.irys.xyz/Rp80fmqZS3qBDnfyxyKEvc65nVdTunjOG3NY8T6AjpI"
+                  },
+                  "start_at": 1751191200,
+                  "isNewPool": true,
+                  "activeBoost": 1
+              }
+          ]
+      },
+      {
+          "poolId": "0x3585ab68bf29e26e0ded505ead0d7eb43d1cc3b273a8678ba63ed685962be6c3",
+          "type": "V1",
+          "balance": 157938518423504,
+          "boost_balance": 0,
+          "stakeCoinType": "0x2739674fc4eea5fd2c1114cc2e84f425a65d3da17b938b276bc6a8d4db7426de::lpcoin::LPCOIN",
+          "active": 1,
+          "vaultPool": {
+              "apr": "0.2331227450111708",
+              "apy": "0.26244249147918817119439400936254",
+              "fee_rate": 500,
+              "coin_type_a": "0xdeeb7a4662eec9f2f3def03fb937a663dddaa2e215b8078a284d026b7946c270::deep::DEEP",
+              "coin_type_b": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
+              "coinADetail": {
+                  "symbol": "DEEP",
+                  "name": "DeepBook Token",
+                  "price": "0.05105558",
+                  "decimals": "6",
+                  "logo_url": "https://images.deepbook.tech/icon.svg"
+              },
+              "coinBDetail": {
+                  "symbol": "SUI",
+                  "name": "Sui",
+                  "price": "1.65531200",
+                  "decimals": "9",
+                  "logo_url": ""
+              },
+              "show_reverse": false,
+              "id": "0x4bd386d95223b37cabee8265a66b8e1f5668efd63e7eb4c4387af67d036b60a4",
+              "category": "haedal"
+          },
+          "coinDetail": {
+              "symbol": "DEEP-SUI Vault LPT",
+              "name": "DEEP-SUI Haedal Vault LP Token",
+              "price": "0.34693000",
+              "decimals": "9",
+              "logo_url": "https://node1.irys.xyz/NVpcEHcDm71AOiNdu5BjfZ5RoXwROnKMUE3PEwDOKM4"
+          },
+          "rewardConfigs": [
+              {
+                  "bank": "0xa8110bf8218cf6b9c1cce064936c4f7a96170525cf54709549c5c233128fce45",
+                  "bankSum": 715008000000000,
+                  "rewardCoinType": "0x3a304c7feba2d819ea57c3542d68439ca2c386ba02159c740f7b406e592c62ea::haedal::HAEDAL",
+                  "rate": "0",
+                  "curRewardNum": 0,
+                  "apr": 0,
+                  "coinDetail": {
+                      "symbol": "HAEDAL",
+                      "name": "Haedal",
+                      "price": "0.06350303",
+                      "decimals": "9",
+                      "logo_url": "https://node1.irys.xyz/Rp80fmqZS3qBDnfyxyKEvc65nVdTunjOG3NY8T6AjpI"
+                  },
+                  "start_at": 1763454180,
+                  "isNewPool": false,
+                  "activeBoost": 1
+              }
+          ]
+      },
+      {
+          "poolId": "0x9cddd2fe64c460183ea0e5ec21cd08a1591c4549850e3d29f83de267ae7a7824",
+          "type": "V1",
+          "balance": 146740004870154,
+          "boost_balance": 0,
+          "stakeCoinType": "0xb3292611527d2379acafab783ce794dfb3b7801e34393b579af277a45d3d4b85::lpcoin::LPCOIN",
+          "active": 1,
+          "vaultPool": {
+              "apr": "0.2197790449294802",
+              "apy": "0.24571903731989334842402780037785",
+              "fee_rate": 500,
+              "coin_type_a": "0x356a26eb9e012a68958082340d4c4116e7f55615cf27affcff209cf0ae544f59::wal::WAL",
+              "coin_type_b": "0x0000000000000000000000000000000000000000000000000000000000000002::sui::SUI",
+              "coinADetail": {
+                  "symbol": "WAL",
+                  "name": "WAL Token",
+                  "price": "0.18261965",
+                  "decimals": "9",
+                  "logo_url": "https://www.walrus.xyz/wal-icon.svg"
+              },
+              "coinBDetail": {
+                  "symbol": "SUI",
+                  "name": "Sui",
+                  "price": "1.65531200",
+                  "decimals": "9",
+                  "logo_url": ""
+              },
+              "show_reverse": false,
+              "id": "0x083981a898882322f1ac035e9b56ea11474866bb4c97a1883e9b789bedca4412",
+              "category": "haedal"
+          },
+          "coinDetail": {
+              "symbol": "WAL-SUI Vault LPT",
+              "name": "WAL-SUI Haedal Vault LP Token",
+              "price": "0",
+              "decimals": "9",
+              "logo_url": "https://node1.irys.xyz/_h1_8hbQ54gZiijV2RUUv1QzySZbeI2ptLYkJ5ogGkg"
+          },
+          "rewardConfigs": [
+              {
+                  "bank": "0xf4755d325111fb4bbf4942017a3a373b116b9f993cda924d521724fcd24277f0",
+                  "bankSum": 715008000000000,
+                  "rewardCoinType": "0x3a304c7feba2d819ea57c3542d68439ca2c386ba02159c740f7b406e592c62ea::haedal::HAEDAL",
+                  "rate": "0",
+                  "curRewardNum": 0,
+                  "apr": 0,
+                  "coinDetail": {
+                      "symbol": "HAEDAL",
+                      "name": "Haedal",
+                      "price": "0.06350303",
+                      "decimals": "9",
+                      "logo_url": "https://node1.irys.xyz/Rp80fmqZS3qBDnfyxyKEvc65nVdTunjOG3NY8T6AjpI"
+                  },
+                  "start_at": 1763454180,
+                  "isNewPool": false,
+                  "activeBoost": 1
+              }
+          ]
+      },
+      {
+          "poolId": "0x9c9a8cc5439bb77578509e3d675dc889ee6f52ca03f9f2f7ebf0e8ea51e08842",
+          "type": "V1",
+          "balance": 83908195244,
+          "boost_balance": 0,
+          "stakeCoinType": "0xa6cf9f52135e83bb3b3ef93318aabddb34741d9a31276478dffaa66afe3c576b::lpcoin::LPCOIN",
+          "active": 1,
+          "vaultPool": {
+              "apr": "0.6627039819538089",
+              "apy": "0.93886567299855942482742859334589",
+              "fee_rate": 500,
+              "coin_type_a": "0xdeeb7a4662eec9f2f3def03fb937a663dddaa2e215b8078a284d026b7946c270::deep::DEEP",
+              "coin_type_b": "0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC",
+              "coinADetail": {
+                  "symbol": "DEEP",
+                  "name": "DeepBook Token",
+                  "price": "0.05105558",
+                  "decimals": "6",
+                  "logo_url": "https://images.deepbook.tech/icon.svg"
+              },
+              "coinBDetail": {
+                  "symbol": "USDC",
+                  "name": "USDC",
+                  "price": "1.00173950",
+                  "decimals": "6",
+                  "logo_url": "https://circle.com/usdc-icon"
+              },
+              "show_reverse": false,
+              "id": "0xcd1e1db0e267b5d07dde4d8dcbce6fe943205ac95a06abc1f7a810a21ccbe306",
+              "category": "haedal"
+          },
+          "coinDetail": {
+              "symbol": "DEEP-USDC Vault LPT",
+              "name": "DEEP-USDC Haedal Vault LP Token",
+              "price": "0",
+              "decimals": "6",
+              "logo_url": "https://node1.irys.xyz/chUcvcXOMvfXs_DJuQ3Xuhli9We5WrFeFe1x0HbDqfs"
+          },
+          "rewardConfigs": [
+              {
+                  "bank": "0x275e9a1e5bc47f3470af0f49fa662f0131cbfb6137e658535a91e88c7e400eed",
+                  "bankSum": 0,
+                  "rewardCoinType": "0x3a304c7feba2d819ea57c3542d68439ca2c386ba02159c740f7b406e592c62ea::haedal::HAEDAL",
+                  "rate": "57870370",
+                  "curRewardNum": 0,
+                  "apr": 1.4470042364104048,
+                  "coinDetail": {
+                      "symbol": "HAEDAL",
+                      "name": "Haedal",
+                      "price": "0.06350303",
+                      "decimals": "9",
+                      "logo_url": "https://node1.irys.xyz/Rp80fmqZS3qBDnfyxyKEvc65nVdTunjOG3NY8T6AjpI"
+                  },
+                  "start_at": 1763452800,
+                  "isNewPool": false,
+                  "activeBoost": 0
+              }
+          ]
+      },
+      {
+          "poolId": "0xc3578d6e729125a164b7ffcfc006a510579934e99066d5f489c3024e946c0d91",
+          "type": "V1",
+          "balance": 88845997262,
+          "boost_balance": 0,
+          "stakeCoinType": "0x304492f402c624b936bdf071ae4cc60baf7b28fcd3a7ca661d94b094eaa6eb0b::lpcoin::LPCOIN",
+          "active": 1,
+          "vaultPool": {
+              "apr": "0.5349453021508291",
+              "apy": "0.70668633695831133058375959154024",
+              "fee_rate": 500,
+              "coin_type_a": "0xdba34672e30cb065b1f93e3ab55318768fd6fef66c15942c9f7cb846e2f900e7::usdc::USDC",
+              "coin_type_b": "0x356a26eb9e012a68958082340d4c4116e7f55615cf27affcff209cf0ae544f59::wal::WAL",
+              "coinADetail": {
+                  "symbol": "USDC",
+                  "name": "USDC",
+                  "price": "1.00173950",
+                  "decimals": "6",
+                  "logo_url": "https://circle.com/usdc-icon"
+              },
+              "coinBDetail": {
+                  "symbol": "WAL",
+                  "name": "WAL Token",
+                  "price": "0.18261965",
+                  "decimals": "9",
+                  "logo_url": "https://www.walrus.xyz/wal-icon.svg"
+              },
+              "show_reverse": true,
+              "id": "0xfad3ced8f5b043b648fdd757a2c370e379fcd6679980e328d99ca1b81b4e6f44",
+              "category": "haedal"
+          },
+          "coinDetail": {
+              "symbol": "WAL-USDC Vault LPT",
+              "name": "WAL-USDC Haedal Vault LP Token",
+              "price": "0",
+              "decimals": "6",
+              "logo_url": "https://node1.irys.xyz/Mg3l6CyMGJXkJ1Gx919T6otWXSZ95RLAufsk6M_fljA"
+          },
+          "rewardConfigs": [
+              {
+                  "bank": "0x2f0d61d958bfc85aaf75aa5d4315e64b85c2e92ad7384223d5010f4c6c4e5fcb",
+                  "bankSum": 35000000000000,
+                  "rewardCoinType": "0x3a304c7feba2d819ea57c3542d68439ca2c386ba02159c740f7b406e592c62ea::haedal::HAEDAL",
+                  "rate": "57870370",
+                  "curRewardNum": 0,
+                  "apr": 1.345360334247949,
+                  "coinDetail": {
+                      "symbol": "HAEDAL",
+                      "name": "Haedal",
+                      "price": "0.06350303",
+                      "decimals": "9",
+                      "logo_url": "https://node1.irys.xyz/Rp80fmqZS3qBDnfyxyKEvc65nVdTunjOG3NY8T6AjpI"
+                  },
+                  "start_at": 1763452800,
+                  "isNewPool": false,
+                  "activeBoost": 0
+              }
+          ]
+      }
+  ]
+}
