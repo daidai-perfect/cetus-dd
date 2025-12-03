@@ -1,0 +1,1 @@
+import{bl as o,bm as a}from"./index-BMuN-6hW.js";function d(e,i){return e>i}function h(e,i,m){for(var t=-1,s=e.length;++t<s;){var f=e[t],n=i(f);if(n!=null&&(l===void 0?n===n&&!o(n):m(n,l)))var l=n,b=f}return b}function g(e,i){return e&&e.length?h(e,a(i),d):void 0}export{g as m};
