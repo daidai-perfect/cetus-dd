@@ -4,20 +4,12 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
     <meta name="description" content="Swap, earn, and build on the pioneer MOVE-based liquidity protocol." />
-    <link rel="icon" type="image/png" href="/favicon.ico?t=202509031709" />
+    <meta name="format-detection" content="telephone=no" />
+    <link rel="icon" type="image/png" href="/favicon.ico?t=202512111926" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet" />
     <title>Cetus - Empower liquidity. Built for DeFi.</title>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-GF4BQNDDKR"></script>
-    <script>
-      window.dataLayer = window.dataLayer || []
-      function gtag() {
-        dataLayer.push(arguments)
-      }
-      gtag('js', new Date())
-      gtag('config', 'G-GF4BQNDDKR')
-    </script>
     <style>
       html {
         background-color: #161616;
@@ -61,20 +53,21 @@
         background: #21303f !important;
       }
     </style>
-    <script type="module" crossorigin src="/assets/index-Dt48GDWk.js"></script>
-    <link rel="modulepreload" crossorigin href="/assets/vendor-Ctiko1yE.js">
-    <link rel="modulepreload" crossorigin href="/assets/cross-ungOD_PD.js">
-    <link rel="stylesheet" crossorigin href="/assets/index-Ddtotjur.css">
+    <script type="module" crossorigin src="/assets/index-R72AWB4c.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/vendor-C6y3JUeg.js">
+    <link rel="modulepreload" crossorigin href="/assets/cross-CDT1hYW7.js">
+    <link rel="stylesheet" crossorigin href="/assets/index-VqB3HDun.css">
   </head>
 
   <body>
     <div id="root"></div>
     <script src="/iconfont.js"></script>
+    <!-- TradingView Charting Library from CDN -->
+    <script src="https://archive.cetus.zone/assets/charting_library_new/charting_library.standalone.js"></script>
 
     <script>
       const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)
-
-      const isOnline = window.location.hostname.includes('cetus.zone')
+      const isOnline = window.location.hostname.includes('cetus.zone') || window.location.hostname.includes('cetus-dlmm-beta')
 
       if (isMobile && !isOnline) {
         const script = document.createElement('script')
