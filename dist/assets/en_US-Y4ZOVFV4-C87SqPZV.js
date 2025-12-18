@@ -1,1 +1,0 @@
-import{r as t}from"./vendor-DMm1Vens.js";import{ek as o}from"./cross-BakyB5r_.js";const n=e=>{const r=t.useRef(e);return t.useEffect(()=>{r.current=e},[e]),r.current},f=e=>{const r=t.useRef(e);return t.useEffect(()=>{r.current=e},[e]),r},c=Object.freeze(Object.defineProperty({__proto__:null,default:o},Symbol.toStringTag,{value:"Module"}));export{f as a,c as e,n as u};
