@@ -1,1 +1,0 @@
-import{br as o,bs as a}from"./index-BrCayvDj.js";function d(e,i){return e>i}function h(e,i,b){for(var t=-1,l=e.length;++t<l;){var s=e[t],n=i(s);if(n!=null&&(f===void 0?n===n&&!o(n):b(n,f)))var f=n,m=s}return m}function g(e,i){return e&&e.length?h(e,a(i),d):void 0}export{g as m};
