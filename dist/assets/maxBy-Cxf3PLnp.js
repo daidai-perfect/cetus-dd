@@ -1,0 +1,1 @@
+import{bk as o,bl as a}from"./index-BP7IfbCk.js";function d(e,i){return e>i}function h(e,i,s){for(var t=-1,b=e.length;++t<b;){var f=e[t],n=i(f);if(n!=null&&(l===void 0?n===n&&!o(n):s(n,l)))var l=n,m=f}return m}function g(e,i){return e&&e.length?h(e,a(i),d):void 0}export{g as m};
