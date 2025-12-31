@@ -1,0 +1,1 @@
+import{cw as x,cx as a}from"./index-ljDG_vJs.js";function b(e,i){return e>i}function d(e,i,l){for(var t=-1,m=e.length;++t<m;){var f=e[t],n=i(f);if(n!=null&&(s===void 0?n===n&&!x(n):l(n,s)))var s=n,o=f}return o}function g(e,i){return e&&e.length?d(e,a(i),b):void 0}export{g as m};
