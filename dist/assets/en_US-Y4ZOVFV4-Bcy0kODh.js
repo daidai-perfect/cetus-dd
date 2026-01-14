@@ -1,0 +1,1 @@
+import{r as t}from"./vendor-BgtLxLeO.js";import{em as o}from"./cross-exM7biLi.js";const n=e=>{const r=t.useRef(e);return t.useEffect(()=>{r.current=e},[e]),r.current},f=e=>{const r=t.useRef(e);return t.useEffect(()=>{r.current=e},[e]),r},c=Object.freeze(Object.defineProperty({__proto__:null,default:o},Symbol.toStringTag,{value:"Module"}));export{f as a,c as e,n as u};
