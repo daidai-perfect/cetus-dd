@@ -1,0 +1,1 @@
+import{bf as o}from"./index-BxYSop_F.js";const t=o(e=>({isAutoRefresh:!1,setIsAutoRefresh:s=>{e(()=>({isAutoRefresh:s}))}}));export{t as u};
