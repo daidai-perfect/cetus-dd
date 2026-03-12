@@ -1,1 +1,0 @@
-const e=t=>({variant:"outline",bg:"bg_secondary",w:t?"18px":"32px",h:t?"18px":"32px",borderRadius:"8px",p:"0 6px",color:"text_paragraph",display:"flex",justifyContent:"center",gap:"4px",sx:{_hover:{color:"text_caption"},...t&&{border:"none",bg:"transparent"}}});export{e as u};
