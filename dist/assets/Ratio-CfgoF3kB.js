@@ -1,0 +1,1 @@
+import{j as i,T as e}from"./vendor-CL3dImV2.js";import{K as s}from"./index-L9erI_AT.js";import"./cross-Bxne1M9s.js";function x({value:t}){const r=s(t).gte(0),o=Number(t).toFixed(2);return i.jsx(e,{fontSize:"12px",fontWeight:"500",color:r?"primary_green":"primary_red",children:r?`+${o}%`:`${o}%`})}export{x as R};
