@@ -1,1 +1,0 @@
-import{ft as e}from"./entry.250055fc.js";const o=e(((e,o)=>{console.log("🚀🚀🚀 ~ detail.ts:4 ~ defineNuxtRouteMiddleware ~ from:",o),console.log("🚀🚀🚀 ~ detail.ts:4 ~ defineNuxtRouteMiddleware ~ to:",e);{const e=document.querySelector(".body-container-bg");null==e||e.scrollTo({top:0})}}));export{o as default};
