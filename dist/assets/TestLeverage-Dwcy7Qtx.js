@@ -1,1 +1,0 @@
-import{r as t,j as r}from"./vendor-DubgWRLY.js";import{u as s}from"./useGetSuiLendInfo-B2mxPsZ6.js";import"./index-TnXiz9U7.js";import"./cross-7aZg_2GP.js";function u(){const{getLendingMarketData:e}=s();return t.useEffect(()=>{e()},[]),r.jsx("div",{children:"TestLeverage"})}export{u as default};
