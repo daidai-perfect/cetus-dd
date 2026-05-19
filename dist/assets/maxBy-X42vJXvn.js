@@ -1,0 +1,1 @@
+import{g7 as d,dv as a}from"./index-DKyrDTV2.js";function b(e,i){return e>i}function g(e,i,l){for(var t=-1,m=e.length;++t<m;){var f=e[t],n=i(f);if(n!=null&&(s===void 0?n===n&&!d(n):l(n,s)))var s=n,o=f}return o}function x(e,i){return e&&e.length?g(e,a(i),b):void 0}export{x as m};

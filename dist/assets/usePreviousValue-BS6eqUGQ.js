@@ -1,0 +1,1 @@
+import{aV as t}from"./vendor-1PTJj1Hr.js";const u=r=>{const e=t.useRef(r);return t.useEffect(()=>{e.current=r},[r]),e.current},c=r=>{const e=t.useRef(r);return t.useEffect(()=>{e.current=r},[r]),e};export{u as a,c as u};
