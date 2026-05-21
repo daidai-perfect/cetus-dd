@@ -1,1 +1,0 @@
-import{g as a,f as i}from"./generateCategoricalChart-W8j-RlSz.js";import{L as s}from"./Line-CKkaHxrt.js";import{X as r,Y as o}from"./YAxis-BIsQRjxq.js";var m=a({chartName:"LineChart",GraphicalChild:s,axisComponents:[{axisType:"xAxis",AxisComp:r},{axisType:"yAxis",AxisComp:o}],formatAxisMap:i});export{m as L};
