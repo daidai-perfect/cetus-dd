@@ -1,8 +1,0 @@
-import{w as o}from"./core-BXvHsOo-.js";import"./cross-DZfF3Mdt.js";import"./vendor-DE6umwJz.js";import"./index-Q4n9BRKU.js";import"./CrossSwap-Bunjlfj8.js";import"./PriceImpact-qrGdB87s.js";import"./CurrentPrice-DbZW25fG.js";import"./Slippage-DuFv_YDX.js";import"./index-BdIyh4aX.js";import"./VaulDrawer-FvzL4kDy.js";import"./useSwapHelper-z2KsG8vJ.js";import"./useGetPoolList-CPk8fU3o.js";import"./utils-B2B-KLBi.js";import"./useWrapPoolData-Bs6i1X4w.js";import"./sui-priority-BWyn1Nhr.js";import"./usePreviousValue-BLxDtB6f.js";import"./isWalletInstalled-w4vSYUCH.js";import"./HighlightText-VY217fTK.js";import"./useSigner-DKI6jm94.js";import"./useTransactionModal-B5qZx-Si.js";import"./ErrorTips-CdC1wBXa.js";import"./HTextLabelBox-iypbAfn2.js";import"./NoData-aMddOXrX.js";import"./index-BOD-k-CG.js";import"./Loading-D3X3nFMe.js";import"./FreshProgressV2-BVOzPUYU.js";import"./index-BbkWn14m.js";import"./en_US-Y4ZOVFV4-BBsKaAf3.js";import"./index.es-Cxco9Zh5.js";const q=o`<svg width="14" height="14" viewBox="0 0 14 14" fill="none">
-  <path 
-    fill-rule="evenodd" 
-    clip-rule="evenodd" 
-    d="M7.00235 2C4.24 2 2.00067 4.23858 2.00067 7C2.00067 9.76142 4.24 12 7.00235 12C9.7647 12 12.004 9.76142 12.004 7C12.004 4.23858 9.7647 2 7.00235 2ZM0 7C0 3.13401 3.13506 0 7.00235 0C10.8696 0 14.0047 3.13401 14.0047 7C14.0047 10.866 10.8696 14 7.00235 14C3.13506 14 0 10.866 0 7ZM7.00235 3C7.55482 3 8.00269 3.44771 8.00269 4V6.58579L9.85327 8.43575C10.2439 8.82627 10.2439 9.45944 9.85327 9.84996C9.46262 10.2405 8.82924 10.2405 8.43858 9.84996L6.29501 7.70711C6.10741 7.51957 6.00201 7.26522 6.00201 7V4C6.00201 3.44771 6.44988 3 7.00235 3Z" 
-    fill="currentColor"
-  />
-</svg>`;export{q as clockSvg};
