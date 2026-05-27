@@ -1,1 +1,0 @@
-import{r as a,B as i,p as s}from"./generateCategoricalChart-Qu5b-V_4.js";import{X as r,Y as t}from"./YAxis-CanTh_4e.js";var p=a({chartName:"BarChart",GraphicalChild:i,defaultTooltipEventType:"axis",validateTooltipEventTypes:["axis","item"],axisComponents:[{axisType:"xAxis",AxisComp:r},{axisType:"yAxis",AxisComp:t}],formatAxisMap:s});export{p as B};
