@@ -1,0 +1,1 @@
+import{aN as i,al as e}from"./vendor-B9PZvovN.js";import{d9 as s}from"./index-BAX3pntP.js";import"./cross-C5WSy8hd.js";function p({value:t}){const r=s(t).gte(0),o=Number(t).toFixed(2);return i.jsx(e,{fontSize:"12px",fontWeight:"500",color:r?"primary_green":"primary_red",children:r?`+${o}%`:`${o}%`})}export{p as R};
