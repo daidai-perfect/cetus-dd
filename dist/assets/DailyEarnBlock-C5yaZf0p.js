@@ -1,0 +1,1 @@
+import{aN as a,H as i,al as n}from"./vendor-B9PZvovN.js";function c({positionInfo:o,dailyEarnUSD:r,dailyEarnOriginResult:s,hasRewards:e,...t}){return a.jsx(i,{...t,children:a.jsx(n,{color:"text_caption",children:r})})}export{c as D};
