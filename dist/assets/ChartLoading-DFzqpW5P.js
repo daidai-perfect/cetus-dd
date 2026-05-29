@@ -1,0 +1,1 @@
+import{j as t}from"./cross-ZwfTfj7t.js";import{bC as o,cb as r}from"./index-CzqR0fpy.js";function e(){return t.jsx(o,{w:"100%",h:"100%",position:"absolute",left:"0px",top:"0px",children:t.jsx(r,{})})}export{e as C};
