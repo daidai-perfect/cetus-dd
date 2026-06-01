@@ -1,1 +1,0 @@
-import{j as e}from"./cross-WtUxUGjk.js";import{bF as r,cc as i}from"./index-lHkq9T46.js";function x({positionStyle:n="fixed",bg:t="background"}){return e.jsx(r,{w:"100%",h:"100%",position:n,left:"0px",top:"0px",zIndex:"99999",alignItems:"center",justifyContent:"center",bg:t,children:e.jsx(i,{size:"xl",color:"primary",thickness:"4px"})})}export{x as L};
