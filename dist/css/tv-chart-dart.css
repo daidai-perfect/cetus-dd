@@ -30,3 +30,18 @@
   --tv-color-popup-element-toolbox-background-hover: #1D262E;
   --tv-color-popup-element-toolbox-background-active-hover: #75C8FF;
 }
+
+[role="dialog"],
+[role="menu"],
+[role="listbox"],
+[data-name*="dialog"],
+[data-name*="popup"],
+[data-name*="menu"],
+[data-name*="context"],
+[class*="dialog"],
+[class*="menu"],
+[class*="popup"],
+[class*="popover"],
+[class*="context"] {
+  z-index: 2147483647 !important;
+}
