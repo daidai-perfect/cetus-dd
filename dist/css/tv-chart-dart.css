@@ -1,4 +1,5 @@
 .theme-dark:root {
+  --cetus-tv-primary: #75C8FF;
   --tv-color-platform-background: #161616;
   --tv-color-pane-background: #161616;
   --tv-color-toolbar-button-background-hover: #1D262E;
@@ -7,11 +8,23 @@
   --tv-color-toolbar-button-background-active-hover: #1D262E;
   --tv-color-toolbar-button-text: #909CA4;
   --tv-color-toolbar-button-text-hover: #FFFFFF;
-  --tv-color-toolbar-button-text-active: #75C8FF;
-  --tv-color-toolbar-button-text-active-hover: #75C8FF;
-  --tv-color-item-active-text: rgb(6, 255, 6);
-  --tv-color-toolbar-toggle-button-background-active: #75C8FF;
-  --tv-color-toolbar-toggle-button-background-active-hover: #75C8FF;
+  --tv-color-toolbar-button-text-active: var(--cetus-tv-primary);
+  --tv-color-toolbar-button-text-active-hover: var(--cetus-tv-primary);
+  --tv-color-item-active-text: var(--cetus-tv-primary);
+  --tv-color-toolbar-toggle-button-background-active: var(--cetus-tv-primary);
+  --tv-color-toolbar-toggle-button-background-active-hover: var(--cetus-tv-primary);
+  --themed-color-brand: var(--cetus-tv-primary);
+  --themed-color-brand-hover: var(--cetus-tv-primary);
+  --themed-color-brand-active: var(--cetus-tv-primary);
+  --themed-color-control-intent-primary: var(--cetus-tv-primary);
+  --themed-color-item-active-bg: var(--cetus-tv-primary);
+  --themed-color-link-primary-active: var(--cetus-tv-primary);
+  --themed-color-link-primary-default: var(--cetus-tv-primary);
+  --themed-color-link-primary-hover: var(--cetus-tv-primary);
+  --themed-color-toolbar-button-text-active: var(--cetus-tv-primary);
+  --themed-color-toolbar-button-text-active-hover: var(--cetus-tv-primary);
+  --themed-color-toolbar-toggle-button-background-active: var(--cetus-tv-primary);
+  --themed-color-toolbar-toggle-button-background-active-hover: var(--cetus-tv-primary);
   --tv-color-toolbar-divider-background: #909CA4;
   --tv-color-toolbar-save-layout-loader: rgb(134, 137, 147);
 
@@ -29,6 +42,60 @@
   --tv-color-popup-element-toolbox-text-active-hover: #000000;
   --tv-color-popup-element-toolbox-background-hover: #1D262E;
   --tv-color-popup-element-toolbox-background-active-hover: #75C8FF;
+}
+
+[data-name="drawing-toolbar"],
+[data-name="left-toolbar"],
+[class*="drawingToolbar"],
+[class*="drawing-toolbar"] {
+  --tv-color-toolbar-button-text-active: var(--cetus-tv-primary);
+  --tv-color-toolbar-button-text-active-hover: var(--cetus-tv-primary);
+  --tv-color-item-active-text: var(--cetus-tv-primary);
+  --tv-color-toolbar-toggle-button-background-active: var(--cetus-tv-primary);
+  --tv-color-toolbar-toggle-button-background-active-hover: var(--cetus-tv-primary);
+  --themed-color-brand: var(--cetus-tv-primary);
+  --themed-color-brand-hover: var(--cetus-tv-primary);
+  --themed-color-brand-active: var(--cetus-tv-primary);
+  --themed-color-control-intent-primary: var(--cetus-tv-primary);
+  --themed-color-item-active-bg: var(--cetus-tv-primary);
+  --themed-color-link-primary-active: var(--cetus-tv-primary);
+  --themed-color-link-primary-default: var(--cetus-tv-primary);
+  --themed-color-link-primary-hover: var(--cetus-tv-primary);
+  --themed-color-toolbar-button-text-active: var(--cetus-tv-primary);
+  --themed-color-toolbar-button-text-active-hover: var(--cetus-tv-primary);
+  --themed-color-toolbar-toggle-button-background-active: var(--cetus-tv-primary);
+  --themed-color-toolbar-toggle-button-background-active-hover: var(--cetus-tv-primary);
+}
+
+:where([data-name="drawing-toolbar"], [data-name="left-toolbar"], [class*="drawingToolbar"], [class*="drawing-toolbar"])
+  :where([aria-pressed="true"], [aria-selected="true"], [data-active="true"], [class*="isActive"], [class*="selected"]) {
+  color: var(--cetus-tv-primary) !important;
+}
+
+:where([data-name="drawing-toolbar"], [data-name="left-toolbar"], [class*="drawingToolbar"], [class*="drawing-toolbar"])
+  :where([aria-pressed="true"], [aria-selected="true"], [data-active="true"], [class*="isActive"], [class*="selected"])
+  svg
+  [stroke]:not([stroke="none"]),
+:where([data-name="drawing-toolbar"], [data-name="left-toolbar"], [class*="drawingToolbar"], [class*="drawing-toolbar"])
+  svg
+  [stroke="#2962FF"],
+:where([data-name="drawing-toolbar"], [data-name="left-toolbar"], [class*="drawingToolbar"], [class*="drawing-toolbar"])
+  svg
+  [stroke="#2962ff"] {
+  stroke: var(--cetus-tv-primary) !important;
+}
+
+:where([data-name="drawing-toolbar"], [data-name="left-toolbar"], [class*="drawingToolbar"], [class*="drawing-toolbar"])
+  :where([aria-pressed="true"], [aria-selected="true"], [data-active="true"], [class*="isActive"], [class*="selected"])
+  svg
+  [fill]:not([fill="none"]),
+:where([data-name="drawing-toolbar"], [data-name="left-toolbar"], [class*="drawingToolbar"], [class*="drawing-toolbar"])
+  svg
+  [fill="#2962FF"],
+:where([data-name="drawing-toolbar"], [data-name="left-toolbar"], [class*="drawingToolbar"], [class*="drawing-toolbar"])
+  svg
+  [fill="#2962ff"] {
+  fill: var(--cetus-tv-primary) !important;
 }
 
 [role="dialog"],
