@@ -1,7 +1,9 @@
 .theme-dark:root {
   --cetus-tv-primary: #75C8FF;
+  --cetus-tv-toolbar-background: #161616;
   --tv-color-platform-background: #161616;
   --tv-color-pane-background: #161616;
+  --tv-color-pane-background-secondary: #161616;
   --tv-color-toolbar-button-background-hover: #1D262E;
   --tv-color-toolbar-button-background-expanded: #1D262E;
   --tv-color-toolbar-button-background-active: #1D262E;
@@ -48,6 +50,9 @@
 [data-name="left-toolbar"],
 [class*="drawingToolbar"],
 [class*="drawing-toolbar"] {
+  --tv-color-pane-background: var(--cetus-tv-toolbar-background);
+  --tv-color-pane-background-secondary: var(--cetus-tv-toolbar-background);
+  background-color: var(--cetus-tv-toolbar-background) !important;
   --tv-color-toolbar-button-text-active: var(--cetus-tv-primary);
   --tv-color-toolbar-button-text-active-hover: var(--cetus-tv-primary);
   --tv-color-item-active-text: var(--cetus-tv-primary);
@@ -96,6 +101,12 @@
   svg
   [fill="#2962ff"] {
   fill: var(--cetus-tv-primary) !important;
+}
+
+.theme-dark
+  :where([data-name="drawing-toolbar"], [data-name="left-toolbar"], [class*="drawingToolbar"], [class*="drawing-toolbar"])
+  :where([class^="group-"], [class*="grouped"], [class*="overflowWrap"]) {
+  background-color: var(--cetus-tv-toolbar-background) !important;
 }
 
 [role="dialog"],

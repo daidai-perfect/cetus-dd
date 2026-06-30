@@ -1,1 +1,0 @@
-import{j as r,H as i,T as n}from"./vendor-p_KnaiP7.js";function l({positionInfo:o,dailyEarnUSD:t,dailyEarnOriginResult:s,hasRewards:e,...a}){return r.jsx(i,{...a,children:r.jsx(n,{color:"text_caption",children:t})})}export{l as D};
