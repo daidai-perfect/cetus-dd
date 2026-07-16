@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_left</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="16"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="veHAEDAL" transform="translate(-814, -321)">
+            <g id="编组-2" transform="translate(220, 252)">
+                <g id="编组" transform="translate(484, 8)">
+                    <g id="编组-12" transform="translate(110, 14)">
+                        <g id="编组-43" transform="translate(0, 47)">
+                            <g id="形状结合" transform="translate(8, 8) rotate(-90) translate(-8, -8)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <g id="蒙版"></g>
+                                <path d="M5.32438751,4.17990122 C5.5642558,4.41976952 5.5642558,4.80867286 5.32438751,5.04854116 L3.098,7.275 L10.9568468,7.27584635 C11.2960718,7.27584635 11.571068,7.55084254 11.571068,7.89006754 C11.571068,8.22929254 11.2960718,8.50428873 10.9568468,8.50428873 L3.097,8.504 L5.32438751,10.7315939 C5.5424496,10.949656 5.56227342,11.2908876 5.38385899,11.5313441 L5.32438751,11.6002339 C5.08451921,11.8401022 4.69561587,11.8401022 4.45574757,11.6002339 L1.17990122,8.32438751 C0.940032926,8.08451921 0.940032926,7.69561587 1.17990122,7.45574757 L4.45574757,4.17990122 C4.69561587,3.94003293 5.08451921,3.94003293 5.32438751,4.17990122 Z" fill="#6F5E56" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

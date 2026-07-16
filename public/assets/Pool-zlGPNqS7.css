@@ -1,0 +1,1 @@
+.AccordionContent{overflow:hidden}.AccordionContent[data-state=open]{animation:slideDown .3s cubic-bezier(.87,0,.13,1)}.AccordionContent[data-state=closed]{animation:slideUp .3s cubic-bezier(.87,0,.13,1)}@keyframes slideDown{0%{height:0}to{height:var(--radix-accordion-content-height)}}@keyframes slideUp{0%{height:var(--radix-accordion-content-height)}to{height:0}}

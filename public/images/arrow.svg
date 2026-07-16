@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>arrow</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Insufficient-balance" transform="translate(-1095, -184)" fill="#6F5E56" fill-rule="nonzero">
+            <g id="编组-25" transform="translate(940, 60)">
+                <g id="编组-21" transform="translate(32, 103)">
+                    <g id="编组-14" transform="translate(0, 18)">
+                        <g id="arrow" transform="translate(123, 3)">
+                            <path d="M6.76822128,4.92186554 L9.63317967,8.3598156 C9.98674375,8.7840925 9.92941968,9.4146572 9.50514279,9.76822128 C9.32542779,9.91798378 9.09889489,10 8.86495839,10 L3.13504161,10 C2.58275686,10 2.13504161,9.55228475 2.13504161,9 C2.13504161,8.76606349 2.21705783,8.5395306 2.36682033,8.3598156 L5.23177872,4.92186554 C5.5853428,4.49758864 6.2159075,4.44026457 6.6401844,4.79382866 C6.68664746,4.83254788 6.72950206,4.87540247 6.76822128,4.92186554 Z" id="三角形" transform="translate(6, 7) rotate(-180) translate(-6, -7)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

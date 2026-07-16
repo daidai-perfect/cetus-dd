@@ -1,0 +1,11 @@
+{
+    "mainnet": {
+        "package": "0xbde4ba4c2e274a60ce15c1cfff9e5c42e41654ac8b6d906a57efa4bd3c29f47d"
+    },
+    "testnet": {
+        "package": "0xdc0ad9144e2854eb8ef5d6011e75b71c796c1973c0a3d3edbb7465a0ebf53598"
+    },
+    "devnet": {
+        "package": "0xdeee1c351ef66ebe38992d78aaae6f2fd1a89f9d25348be81696ade8183c19aa"
+    }
+}

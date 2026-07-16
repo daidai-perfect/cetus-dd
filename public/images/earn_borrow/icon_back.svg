@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_back</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="切图" transform="translate(-121, -122)">
+            <g id="icon_return" transform="translate(121, 122)">
+                <g id="icon_back" transform="translate(6, 6) rotate(-180) translate(-6, -6)">
+                    <rect id="矩形" x="0" y="0" width="12" height="12"></rect>
+                    <path d="M4.5,1.75735931 L8.03553391,5.29289322 C8.4260582,5.68341751 8.4260582,6.31658249 8.03553391,6.70710678 L4.5,10.2426407 L4.5,10.2426407" id="路径" stroke="#6F5E56" stroke-width="1.5" stroke-linecap="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

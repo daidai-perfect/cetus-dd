@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="69px" height="70px" viewBox="0 0 69 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/Copy备份</title>
+    <defs>
+        <filter x="-18.0%" y="-13.5%" width="136.1%" height="132.9%" filterUnits="objectBoundingBox" id="filter-1">
+            <feMorphology radius="4" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="9" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="14" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="视觉稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="3-2-Queues-编辑" transform="translate(-735, -295)" stroke="#999999" stroke-width="1.28">
+            <g id="编组-13" transform="translate(268, 80)">
+                <g id="编组-8" transform="translate(24, 129)">
+                    <g id="编组-9" filter="url(#filter-1)" transform="translate(300, 48)">
+                        <g id="icon/Copy备份" transform="translate(169.5, 56)">
+                            <polyline id="路径-4" points="7.6 10 9.6 8 7.6 6"></polyline>
+                            <path d="M2.4,5.2 L2.4,4 C2.4,3.1163444 3.1163444,2.4 4,2.4 L12,2.4 C12.8836556,2.4 13.6,3.1163444 13.6,4 L13.6,12 C13.6,12.8836556 12.8836556,13.6 12,13.6 L4,13.6 C3.1163444,13.6 2.4,12.8836556 2.4,12 L2.4,8.8 C2.4,8.3581722 2.7581722,8 3.2,8 L9.6,8 L9.6,8" id="路径"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
