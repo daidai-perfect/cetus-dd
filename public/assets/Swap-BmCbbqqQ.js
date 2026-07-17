@@ -1,0 +1,1 @@
+import{j as t}from"./index-D2uADoxx.js";function r(){return t.jsx("div",{className:"mx-auto max-w-[1120px] px-6 pb-16 pt-2 text-[var(--hds-color-text_primary)]",children:"swap"})}export{r as default};
