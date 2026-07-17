@@ -1,1 +1,0 @@
-import{bs as p,bt as o,aB as u,bu as c,bv as f,bw as e,bx as i}from"./Bridge-DZPGv1IF.js";function s(a){return[...f,e(a)]}function m(a,t){const[n,b]=p(a),r=o(s(a),t);return{protocolName:n,payloadName:b,payloadLiteral:a,...o(i,t),...r,hash:u(c(s(a),r))}}export{m as p};
