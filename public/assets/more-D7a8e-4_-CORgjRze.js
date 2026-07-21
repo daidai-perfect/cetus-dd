@@ -1,0 +1,11 @@
+import{m as o}from"./solana-D2d9wcV7-B5Mrqj4j.js";import"./index-CSs7jEks.js";import"./Bridge-37xLuaUa.js";import"./util--bw7gFPs-BWz0kH9e.js";import"./wallets-DeIxpXbE-BD0sp_Fe.js";import"./index.es-DxME80dw-CGQByn3D.js";import"./http-BRrcyI2V-LwCP0nWA.js";const f=o`<svg fill="none" viewBox="0 0 41 40">
+  <path
+    style="fill: var(--wui-color-fg-100);"
+    fill-opacity=".05"
+    d="M.6 20a20 20 0 1 1 40 0 20 20 0 0 1-40 0Z"
+  />
+  <path
+    fill="#949E9E"
+    d="M15.6 20.31a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0ZM23.1 20.31a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0ZM28.1 22.81a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5Z"
+  />
+</svg>`;export{f as moreSvg};
