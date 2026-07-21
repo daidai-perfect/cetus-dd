@@ -1,0 +1,1 @@
+import{br as p,cB as o,cK as u,at as f,aA as e,cn as i,u as l}from"./Bridge-C2BIBLTN.js";function s(a){return[...e,i(a)]}function d(a,r){const[c,n]=p(a),t=o(s(a),r);return{protocolName:c,payloadName:n,payloadLiteral:a,...o(l,r),...t,hash:u(f(s(a),t))}}export{d as p};
