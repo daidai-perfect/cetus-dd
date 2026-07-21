@@ -1,8 +1,0 @@
-import{m as o}from"./solana-D2d9wcV7-B5Mrqj4j.js";import"./index-CSs7jEks.js";import"./Bridge-37xLuaUa.js";import"./util--bw7gFPs-BWz0kH9e.js";import"./wallets-DeIxpXbE-BD0sp_Fe.js";import"./index.es-DxME80dw-CGQByn3D.js";import"./http-BRrcyI2V-LwCP0nWA.js";const a=o`<svg fill="none" viewBox="0 0 16 16">
-  <path
-    fill="currentColor"
-    fill-rule="evenodd"
-    d="M1.46 4.96a1 1 0 0 1 1.41 0L8 10.09l5.13-5.13a1 1 0 1 1 1.41 1.41l-5.83 5.84a1 1 0 0 1-1.42 0L1.46 6.37a1 1 0 0 1 0-1.41Z"
-    clip-rule="evenodd"
-  />
-</svg>`;export{a as chevronBottomSvg};
