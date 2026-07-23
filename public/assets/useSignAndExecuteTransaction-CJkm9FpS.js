@@ -1,0 +1,1 @@
+import{hB as n,hL as o}from"./index-Db1dObS2.js";const t=a=>{if(a!=null&&a.transaction)return a;if(a!=null&&a.transactionBlock){const{transactionBlock:r,...s}=a;return{...s,transaction:r}}return{transaction:a}},e=()=>{const a=n();return o({mutationFn:r=>a.signAndExecuteTransaction(t(r))})};export{e as u};
