@@ -1,0 +1,1 @@
+import{r as t}from"./vendor-ej2ta5Fg.js";const u=r=>{const e=t.useRef(r);return t.useEffect(()=>{e.current=r},[r]),e.current},c=r=>{const e=t.useRef(r);return t.useEffect(()=>{e.current=r},[r]),e};export{c as a,u};

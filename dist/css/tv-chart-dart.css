@@ -109,6 +109,11 @@
   background-color: var(--cetus-tv-toolbar-background) !important;
 }
 
+#cetus-tv-current-price-overlay {
+  z-index: 2 !important;
+  pointer-events: none !important;
+}
+
 [role="dialog"],
 [role="menu"],
 [role="listbox"],
